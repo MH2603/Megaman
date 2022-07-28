@@ -18,6 +18,10 @@ public class comunicate : MonoBehaviour
     public GameObject boxChat;
     public Text boxText;
 
+
+    public GameObject WinPause;
+    public Text winText;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -75,12 +79,22 @@ public class comunicate : MonoBehaviour
     void PlayerLoss()
     {
         BossTalk("Hơi Non");
-        
+        WinPause.SetActive(true);
+        winText.text = "You lose, Let try again";
+
     }
 
     void PlayerWin()
     {
         BossTalk("GG");
+        WinPause.SetActive(true);
+        if(player.life == 16)
+        {
+            winText.text = "You win with max HP, Are you Faker ???";
+        }else winText.text = "You win, but you should try to win max HP";
+
+
+
     }
     
 

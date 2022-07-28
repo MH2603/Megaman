@@ -8,10 +8,11 @@ public class ThrowableWeapon_new : MonoBehaviour
 	public bool hasHit = false;
 	public float speed = 10f;
 
+	
     // Start is called before the first frame update
     void Start()
     {
-        
+   
     }
 
     // Update is called once per frame

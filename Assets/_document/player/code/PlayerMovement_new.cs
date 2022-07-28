@@ -13,24 +13,37 @@ public class PlayerMovement_new : MonoBehaviour {
 	bool jump = false;
 	bool dash = false;
 
+	float startTime;
 	//bool dashAxis = false;
 	
+	void Start()
+    {
+		startTime = Time.time + 3f;
+    }
+
+
+
 	// Update is called once per frame
 	void Update () {
 
-		horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
 
-		animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+		if(startTime < Time.time)
+        {
+			horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
 
-		if (Input.GetKeyDown(KeyCode.W))
-		{
-			jump = true;
+			animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+
+			if (Input.GetKeyDown(KeyCode.W))
+			{
+				jump = true;
+			}
+
+			if (Input.GetKeyDown(KeyCode.K))
+			{
+				dash = true;
+			}
 		}
-
-		if (Input.GetKeyDown(KeyCode.K))
-		{
-			dash = true;
-		}
+		
 
 		/*if (Input.GetAxisRaw("Dash") == 1 || Input.GetAxisRaw("Dash") == -1) //RT in Unity 2017 = -1, RT in Unity 2019 = 1
 		{

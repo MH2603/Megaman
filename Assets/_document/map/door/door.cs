@@ -12,6 +12,7 @@ public class door : MonoBehaviour
 
     bool firstOpen = true;
 
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -26,7 +27,7 @@ public class door : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Player" && firstOpen )
+        if(collision.gameObject.tag == "Player" && firstOpen)
         {
             anima.SetBool("open", true);
             coll.isTrigger = true;
@@ -36,7 +37,7 @@ public class door : MonoBehaviour
 
     void OnTriggerExit2D(Collider2D other)
     {
-        if(other.gameObject.tag == "Player")
+        if(other.gameObject.tag == "Player" && other.transform.position.x - this.transform.position.x > 0)
         {
             firstOpen = false;
 

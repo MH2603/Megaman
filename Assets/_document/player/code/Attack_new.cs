@@ -28,6 +28,7 @@ public class Attack_new : MonoBehaviour
 	public GameObject effect;
 	float m;
 
+	float startTime;
 	private void Awake()
 	{
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
@@ -36,23 +37,23 @@ public class Attack_new : MonoBehaviour
 	// Start is called before the first frame update
 	void Start()
     {
-        
+		startTime = Time.time + 3f;
     }
 
 	// Update is called once per framea
 	void Update()
 	{
-		if (Input.GetKeyDown(KeyCode.X) && canAttack)
-		{
-			canAttack = false;
-			animator.SetBool("IsAttacking", true);
-			StartCoroutine(AttackCooldown());
-		}
+		//if (Input.GetKeyDown(KeyCode.X) && canAttack)
+		//{
+		//	canAttack = false;
+		//	animator.SetBool("IsAttacking", true);
+		//	StartCoroutine(AttackCooldown());
+		//}
 
 		
 
 
-		if (Input.GetKeyUp(KeyCode.J) )
+		if (Input.GetKeyUp(KeyCode.J) && startTime < Time.time)
 		{
 			//if(fire == false) StartCoroutine(DownFire()); 
 			fire = true;
@@ -73,7 +74,8 @@ public class Attack_new : MonoBehaviour
 			
 
 		}
-		else if (Input.GetKeyDown(KeyCode.J)){
+		else if (Input.GetKeyDown(KeyCode.J) && startTime < Time.time){
+
 			m = Time.time;
 			effect.SetActive(true);
 		}
