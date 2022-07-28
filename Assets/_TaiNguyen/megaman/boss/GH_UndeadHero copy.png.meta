@@ -1,0 +1,7550 @@
+fileFormatVersion: 2
+guid: 245027b97e024c947a94aa8823af5256
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5753896531273234413
+    second: GH_UndeadHero copy_0
+  - first:
+      213: -6098192786106544298
+    second: GH_UndeadHero copy_1
+  - first:
+      213: -3634573075076257260
+    second: GH_UndeadHero copy_2
+  - first:
+      213: -2122224998779077837
+    second: GH_UndeadHero copy_3
+  - first:
+      213: 2477299860183975194
+    second: GH_UndeadHero copy_4
+  - first:
+      213: 7173413904767387701
+    second: GH_UndeadHero copy_5
+  - first:
+      213: 4865560139379293080
+    second: GH_UndeadHero copy_6
+  - first:
+      213: 7444527209511853358
+    second: GH_UndeadHero copy_7
+  - first:
+      213: 1139788917723126356
+    second: GH_UndeadHero copy_8
+  - first:
+      213: 4059492366325731551
+    second: GH_UndeadHero copy_9
+  - first:
+      213: -8877551579901986432
+    second: GH_UndeadHero copy_10
+  - first:
+      213: 1626768461946172553
+    second: GH_UndeadHero copy_11
+  - first:
+      213: -2399388450011528942
+    second: GH_UndeadHero copy_12
+  - first:
+      213: -3302448813506183093
+    second: GH_UndeadHero copy_13
+  - first:
+      213: 6081402207075950061
+    second: GH_UndeadHero copy_14
+  - first:
+      213: -6954346435771914229
+    second: GH_UndeadHero copy_15
+  - first:
+      213: -273330877643570146
+    second: GH_UndeadHero copy_16
+  - first:
+      213: 8553099492162951435
+    second: GH_UndeadHero copy_17
+  - first:
+      213: 9085895441299851092
+    second: GH_UndeadHero copy_18
+  - first:
+      213: -839503520041237770
+    second: GH_UndeadHero copy_19
+  - first:
+      213: 8358540421084152368
+    second: GH_UndeadHero copy_20
+  - first:
+      213: 516006190509729408
+    second: GH_UndeadHero copy_21
+  - first:
+      213: 7175901634352650836
+    second: GH_UndeadHero copy_22
+  - first:
+      213: -6105683394456039331
+    second: GH_UndeadHero copy_23
+  - first:
+      213: 8499352875814529227
+    second: GH_UndeadHero copy_24
+  - first:
+      213: 9117710764241049246
+    second: GH_UndeadHero copy_25
+  - first:
+      213: -3865012525386447295
+    second: GH_UndeadHero copy_26
+  - first:
+      213: 1996166459002400180
+    second: GH_UndeadHero copy_27
+  - first:
+      213: -2683407587191126776
+    second: GH_UndeadHero copy_28
+  - first:
+      213: -3879157448491934376
+    second: GH_UndeadHero copy_29
+  - first:
+      213: 2069487817644625564
+    second: GH_UndeadHero copy_30
+  - first:
+      213: -314765366974299458
+    second: GH_UndeadHero copy_31
+  - first:
+      213: 3708086487428160532
+    second: GH_UndeadHero copy_32
+  - first:
+      213: -6910552279472346964
+    second: GH_UndeadHero copy_33
+  - first:
+      213: 5606439283316479497
+    second: GH_UndeadHero copy_34
+  - first:
+      213: -4809689168762104445
+    second: GH_UndeadHero copy_35
+  - first:
+      213: 774612852378696236
+    second: GH_UndeadHero copy_36
+  - first:
+      213: -6533746001821488736
+    second: GH_UndeadHero copy_37
+  - first:
+      213: 5278316448463469963
+    second: GH_UndeadHero copy_38
+  - first:
+      213: 3968866657747132891
+    second: GH_UndeadHero copy_39
+  - first:
+      213: 3937927649808933167
+    second: GH_UndeadHero copy_40
+  - first:
+      213: 7034326293016434788
+    second: GH_UndeadHero copy_41
+  - first:
+      213: -8441189406557932518
+    second: GH_UndeadHero copy_42
+  - first:
+      213: -7743348285446158022
+    second: GH_UndeadHero copy_43
+  - first:
+      213: 2000084637672215742
+    second: GH_UndeadHero copy_44
+  - first:
+      213: 1158683721085279243
+    second: GH_UndeadHero copy_45
+  - first:
+      213: -4730340316226077383
+    second: GH_UndeadHero copy_46
+  - first:
+      213: 4966057054358062288
+    second: GH_UndeadHero copy_47
+  - first:
+      213: -6866265418579636876
+    second: GH_UndeadHero copy_48
+  - first:
+      213: 1304312479232300783
+    second: GH_UndeadHero copy_49
+  - first:
+      213: -5130062210965861815
+    second: GH_UndeadHero copy_50
+  - first:
+      213: 8646992798923748005
+    second: GH_UndeadHero copy_51
+  - first:
+      213: 4467789170964195515
+    second: GH_UndeadHero copy_52
+  - first:
+      213: -3508718088754143453
+    second: GH_UndeadHero copy_53
+  - first:
+      213: -768963355683805693
+    second: GH_UndeadHero copy_54
+  - first:
+      213: -5105911365866349720
+    second: GH_UndeadHero copy_55
+  - first:
+      213: 3448765805413943819
+    second: GH_UndeadHero copy_56
+  - first:
+      213: -1218054880240249125
+    second: GH_UndeadHero copy_57
+  - first:
+      213: -7008493817711349262
+    second: GH_UndeadHero copy_58
+  - first:
+      213: 4512921745962303743
+    second: GH_UndeadHero copy_59
+  - first:
+      213: 3655870179377033241
+    second: GH_UndeadHero copy_60
+  - first:
+      213: -9026457983157772245
+    second: GH_UndeadHero copy_61
+  - first:
+      213: -1060495419030905679
+    second: GH_UndeadHero copy_62
+  - first:
+      213: -3189523732952971740
+    second: GH_UndeadHero copy_63
+  - first:
+      213: -4839122378964602298
+    second: GH_UndeadHero copy_64
+  - first:
+      213: 6401246604286449250
+    second: GH_UndeadHero copy_65
+  - first:
+      213: 6716894803378071516
+    second: GH_UndeadHero copy_66
+  - first:
+      213: -7861817099737891176
+    second: GH_UndeadHero copy_67
+  - first:
+      213: 6684983811112018121
+    second: GH_UndeadHero copy_68
+  - first:
+      213: 3242323536274677237
+    second: GH_UndeadHero copy_69
+  - first:
+      213: 4143799289198123481
+    second: GH_UndeadHero copy_70
+  - first:
+      213: 4663817965805514562
+    second: GH_UndeadHero copy_71
+  - first:
+      213: 2852020965185029267
+    second: GH_UndeadHero copy_72
+  - first:
+      213: -7873360894499673066
+    second: GH_UndeadHero copy_73
+  - first:
+      213: -4577014379842573707
+    second: GH_UndeadHero copy_74
+  - first:
+      213: 6840909620462741127
+    second: GH_UndeadHero copy_75
+  - first:
+      213: 5691447382739879277
+    second: GH_UndeadHero copy_76
+  - first:
+      213: 7172556837919445735
+    second: GH_UndeadHero copy_77
+  - first:
+      213: 7916978177550497640
+    second: GH_UndeadHero copy_78
+  - first:
+      213: 5290165660885448841
+    second: GH_UndeadHero copy_79
+  - first:
+      213: 2795572695793158236
+    second: GH_UndeadHero copy_80
+  - first:
+      213: -729559635259570230
+    second: GH_UndeadHero copy_81
+  - first:
+      213: -6588595488135626393
+    second: GH_UndeadHero copy_82
+  - first:
+      213: -5389685543904593061
+    second: GH_UndeadHero copy_83
+  - first:
+      213: 2847455364181636727
+    second: GH_UndeadHero copy_84
+  - first:
+      213: -3886133483892622601
+    second: GH_UndeadHero copy_85
+  - first:
+      213: 5854276183340852499
+    second: GH_UndeadHero copy_86
+  - first:
+      213: 4469766160267398408
+    second: GH_UndeadHero copy_87
+  - first:
+      213: 7133741353575162595
+    second: GH_UndeadHero copy_88
+  - first:
+      213: -5363618323080441105
+    second: GH_UndeadHero copy_89
+  - first:
+      213: -6850022048900085086
+    second: GH_UndeadHero copy_90
+  - first:
+      213: 7747200406440001836
+    second: GH_UndeadHero copy_91
+  - first:
+      213: -8581179546580948342
+    second: GH_UndeadHero copy_92
+  - first:
+      213: 5840788753099751061
+    second: GH_UndeadHero copy_93
+  - first:
+      213: 8460543951514032510
+    second: GH_UndeadHero copy_94
+  - first:
+      213: -8005871998073033506
+    second: GH_UndeadHero copy_95
+  - first:
+      213: -7272321397764198156
+    second: GH_UndeadHero copy_96
+  - first:
+      213: 751277813418115832
+    second: GH_UndeadHero copy_97
+  - first:
+      213: -4203709901754713925
+    second: GH_UndeadHero copy_98
+  - first:
+      213: 5351083948932742678
+    second: GH_UndeadHero copy_99
+  - first:
+      213: 1760325103964844822
+    second: GH_UndeadHero copy_100
+  - first:
+      213: 7670730527882183168
+    second: GH_UndeadHero copy_101
+  - first:
+      213: -8523272844466620387
+    second: GH_UndeadHero copy_102
+  - first:
+      213: 8052979476472335951
+    second: GH_UndeadHero copy_103
+  - first:
+      213: -4500836145389873253
+    second: GH_UndeadHero copy_104
+  - first:
+      213: -6403853919607558036
+    second: GH_UndeadHero copy_105
+  - first:
+      213: 880127703750471477
+    second: GH_UndeadHero copy_106
+  - first:
+      213: 1043811560572058844
+    second: GH_UndeadHero copy_107
+  - first:
+      213: 67246996450694643
+    second: GH_UndeadHero copy_108
+  - first:
+      213: 8540544793137488825
+    second: GH_UndeadHero copy_109
+  - first:
+      213: 2369304844327606740
+    second: GH_UndeadHero copy_110
+  - first:
+      213: -4935730060039432448
+    second: GH_UndeadHero copy_111
+  - first:
+      213: -5477861913644375183
+    second: GH_UndeadHero copy_112
+  - first:
+      213: -2330113626523645011
+    second: GH_UndeadHero copy_113
+  - first:
+      213: -5659271695641129820
+    second: GH_UndeadHero copy_114
+  - first:
+      213: 1134051921212910742
+    second: GH_UndeadHero copy_115
+  - first:
+      213: -584514747074368690
+    second: GH_UndeadHero copy_116
+  - first:
+      213: -5260645522264370700
+    second: GH_UndeadHero copy_117
+  - first:
+      213: -1164792217817517643
+    second: GH_UndeadHero copy_118
+  - first:
+      213: -8239041743282655293
+    second: GH_UndeadHero copy_119
+  - first:
+      213: 610930857042513647
+    second: GH_UndeadHero copy_120
+  - first:
+      213: 4472974251370612841
+    second: GH_UndeadHero copy_121
+  - first:
+      213: 5663148703295772423
+    second: GH_UndeadHero copy_122
+  - first:
+      213: 9158894701537028392
+    second: GH_UndeadHero copy_123
+  - first:
+      213: 2441739918343168779
+    second: GH_UndeadHero copy_124
+  - first:
+      213: -2322917826013609773
+    second: GH_UndeadHero copy_125
+  - first:
+      213: -3376713144886502453
+    second: GH_UndeadHero copy_126
+  - first:
+      213: 6045399479500811966
+    second: GH_UndeadHero copy_127
+  - first:
+      213: 2691172898137692651
+    second: GH_UndeadHero copy_128
+  - first:
+      213: 7442094990802603396
+    second: GH_UndeadHero copy_129
+  - first:
+      213: 2303545611105759532
+    second: GH_UndeadHero copy_130
+  - first:
+      213: 7441942233717495961
+    second: GH_UndeadHero copy_131
+  - first:
+      213: -1976157786863356887
+    second: GH_UndeadHero copy_132
+  - first:
+      213: 1545240386469672302
+    second: GH_UndeadHero copy_133
+  - first:
+      213: -4381624240396264816
+    second: GH_UndeadHero copy_134
+  - first:
+      213: -1990529249879258880
+    second: GH_UndeadHero copy_135
+  - first:
+      213: -2295858871444196281
+    second: GH_UndeadHero copy_136
+  - first:
+      213: -7443028219396214262
+    second: GH_UndeadHero copy_137
+  - first:
+      213: -8112533469201687296
+    second: GH_UndeadHero copy_138
+  - first:
+      213: -5987871640756870848
+    second: GH_UndeadHero copy_139
+  - first:
+      213: 4835189921699643527
+    second: GH_UndeadHero copy_140
+  - first:
+      213: 3954754777804639977
+    second: GH_UndeadHero copy_141
+  - first:
+      213: 3058813436028600189
+    second: GH_UndeadHero copy_142
+  - first:
+      213: -4400510252944389701
+    second: GH_UndeadHero copy_143
+  - first:
+      213: 2888795391207395548
+    second: GH_UndeadHero copy_144
+  - first:
+      213: -2640035826264320514
+    second: GH_UndeadHero copy_145
+  - first:
+      213: -4344098801067043805
+    second: GH_UndeadHero copy_146
+  - first:
+      213: 7154456585730920133
+    second: GH_UndeadHero copy_147
+  - first:
+      213: -6679966556897129539
+    second: GH_UndeadHero copy_148
+  - first:
+      213: 1653222164331301033
+    second: GH_UndeadHero copy_149
+  - first:
+      213: -4731055601895187034
+    second: GH_UndeadHero copy_150
+  - first:
+      213: 4135193522153849664
+    second: GH_UndeadHero copy_151
+  - first:
+      213: -7051313809335733727
+    second: GH_UndeadHero copy_152
+  - first:
+      213: -3311658358954923049
+    second: GH_UndeadHero copy_153
+  - first:
+      213: 1678645230881003736
+    second: GH_UndeadHero copy_154
+  - first:
+      213: -6235176423154133937
+    second: GH_UndeadHero copy_155
+  - first:
+      213: 50789139577647941
+    second: GH_UndeadHero copy_156
+  - first:
+      213: -614346028210811147
+    second: GH_UndeadHero copy_157
+  - first:
+      213: -5091501340954807182
+    second: GH_UndeadHero copy_158
+  - first:
+      213: 4156843527247461581
+    second: GH_UndeadHero copy_159
+  - first:
+      213: -8471086627829841582
+    second: GH_UndeadHero copy_160
+  - first:
+      213: 8980860143540689745
+    second: GH_UndeadHero copy_161
+  - first:
+      213: -3277300009190228618
+    second: GH_UndeadHero copy_162
+  - first:
+      213: -4013176031635886701
+    second: GH_UndeadHero copy_163
+  - first:
+      213: 5412376695005191008
+    second: GH_UndeadHero copy_164
+  - first:
+      213: 978118044097405237
+    second: GH_UndeadHero copy_165
+  - first:
+      213: -902362730067050772
+    second: GH_UndeadHero copy_166
+  - first:
+      213: -4599061312328687136
+    second: GH_UndeadHero copy_167
+  - first:
+      213: 1478481003189445921
+    second: GH_UndeadHero copy_168
+  - first:
+      213: 610643304120498420
+    second: GH_UndeadHero copy_169
+  - first:
+      213: 4999540532691740655
+    second: GH_UndeadHero copy_170
+  - first:
+      213: -5283340091881515985
+    second: GH_UndeadHero copy_171
+  - first:
+      213: 7857398636851006265
+    second: GH_UndeadHero copy_172
+  - first:
+      213: 7762973686143722194
+    second: GH_UndeadHero copy_173
+  - first:
+      213: 8818649614331356305
+    second: GH_UndeadHero copy_174
+  - first:
+      213: -6063568557088733156
+    second: GH_UndeadHero copy_175
+  - first:
+      213: -558288903656067782
+    second: GH_UndeadHero copy_176
+  - first:
+      213: -103524284134971316
+    second: GH_UndeadHero copy_177
+  - first:
+      213: -4297000496294827432
+    second: GH_UndeadHero copy_178
+  - first:
+      213: -3448621624534373739
+    second: GH_UndeadHero copy_179
+  - first:
+      213: -3363812651366031285
+    second: GH_UndeadHero copy_180
+  - first:
+      213: 6767421859258154041
+    second: GH_UndeadHero copy_181
+  - first:
+      213: 4831360241334965429
+    second: GH_UndeadHero copy_182
+  - first:
+      213: -1195535688181825447
+    second: GH_UndeadHero copy_183
+  - first:
+      213: 1211328922832698469
+    second: GH_UndeadHero copy_184
+  - first:
+      213: -5407759094832835436
+    second: GH_UndeadHero copy_185
+  - first:
+      213: 5218677797558627741
+    second: GH_UndeadHero copy_186
+  - first:
+      213: 7740764814202814091
+    second: GH_UndeadHero copy_187
+  - first:
+      213: 1736387287561667742
+    second: GH_UndeadHero copy_188
+  - first:
+      213: 3437933024897767934
+    second: GH_UndeadHero copy_189
+  - first:
+      213: 2920550945119067143
+    second: GH_UndeadHero copy_190
+  - first:
+      213: 2675827645468133802
+    second: GH_UndeadHero copy_191
+  - first:
+      213: 5820609869988914189
+    second: GH_UndeadHero copy_192
+  - first:
+      213: 3841550494705543231
+    second: GH_UndeadHero copy_193
+  - first:
+      213: 8553558355187665854
+    second: GH_UndeadHero copy_194
+  - first:
+      213: -4398262703798754049
+    second: GH_UndeadHero copy_195
+  - first:
+      213: 2959529909341112788
+    second: GH_UndeadHero copy_196
+  - first:
+      213: 5360117916694120730
+    second: GH_UndeadHero copy_197
+  - first:
+      213: 155799504597050070
+    second: GH_UndeadHero copy_198
+  - first:
+      213: 5767591454202797886
+    second: GH_UndeadHero copy_199
+  - first:
+      213: -3637576597532973925
+    second: GH_UndeadHero copy_200
+  - first:
+      213: -4524416862988631907
+    second: GH_UndeadHero copy_201
+  - first:
+      213: 5886373913347722524
+    second: GH_UndeadHero copy_202
+  - first:
+      213: 5820778364574231424
+    second: GH_UndeadHero copy_203
+  - first:
+      213: 4210293322318806872
+    second: GH_UndeadHero copy_204
+  - first:
+      213: 4316705355607910107
+    second: GH_UndeadHero copy_205
+  - first:
+      213: 3827496511916347768
+    second: GH_UndeadHero copy_206
+  - first:
+      213: 6019893291310861737
+    second: GH_UndeadHero copy_207
+  - first:
+      213: 2650812064974499089
+    second: GH_UndeadHero copy_208
+  - first:
+      213: 743196294907530108
+    second: GH_UndeadHero copy_209
+  - first:
+      213: 8173224760807028497
+    second: GH_UndeadHero copy_210
+  - first:
+      213: -3653236144010538631
+    second: GH_UndeadHero copy_211
+  - first:
+      213: -2529442643012956960
+    second: GH_UndeadHero copy_212
+  - first:
+      213: -5505997177600273110
+    second: GH_UndeadHero copy_213
+  - first:
+      213: 909541488628624571
+    second: GH_UndeadHero copy_214
+  - first:
+      213: -4470845373908064688
+    second: GH_UndeadHero copy_215
+  - first:
+      213: 4508960472695203471
+    second: GH_UndeadHero copy_216
+  - first:
+      213: 7069728571493673103
+    second: GH_UndeadHero copy_217
+  - first:
+      213: 2942010269221381264
+    second: GH_UndeadHero copy_218
+  - first:
+      213: 8306257764976906452
+    second: GH_UndeadHero copy_219
+  - first:
+      213: 5215050642176819116
+    second: GH_UndeadHero copy_220
+  - first:
+      213: 5336125492133583288
+    second: GH_UndeadHero copy_221
+  - first:
+      213: 5374943689474190954
+    second: GH_UndeadHero copy_222
+  - first:
+      213: 8631949953051077715
+    second: GH_UndeadHero copy_223
+  - first:
+      213: 7467899926479123088
+    second: GH_UndeadHero copy_224
+  - first:
+      213: 1357069110950995293
+    second: GH_UndeadHero copy_225
+  - first:
+      213: -5791048870887765116
+    second: GH_UndeadHero copy_226
+  - first:
+      213: 3523014558865686190
+    second: GH_UndeadHero copy_227
+  - first:
+      213: -988722454412074082
+    second: GH_UndeadHero copy_228
+  - first:
+      213: 3766648968631596039
+    second: GH_UndeadHero copy_229
+  - first:
+      213: 5910482964131702210
+    second: GH_UndeadHero copy_230
+  - first:
+      213: 4394769964050410270
+    second: GH_UndeadHero copy_231
+  - first:
+      213: 8073944398361464550
+    second: GH_UndeadHero copy_232
+  - first:
+      213: 3371504806853952093
+    second: GH_UndeadHero copy_233
+  - first:
+      213: 1798678773439866255
+    second: GH_UndeadHero copy_234
+  - first:
+      213: -778827083686505694
+    second: GH_UndeadHero copy_235
+  - first:
+      213: 7161442176370213013
+    second: GH_UndeadHero copy_236
+  - first:
+      213: 2919768652345444348
+    second: GH_UndeadHero copy_237
+  - first:
+      213: -1925964547914774776
+    second: GH_UndeadHero copy_238
+  - first:
+      213: 7664628117991852115
+    second: GH_UndeadHero copy_239
+  - first:
+      213: -3629863737950165167
+    second: GH_UndeadHero copy_240
+  - first:
+      213: -7103282706776410849
+    second: GH_UndeadHero copy_241
+  - first:
+      213: -1034345029958129833
+    second: GH_UndeadHero copy_242
+  - first:
+      213: 2633797731652927742
+    second: GH_UndeadHero copy_243
+  - first:
+      213: 8040854688402616682
+    second: GH_UndeadHero copy_244
+  - first:
+      213: -2138655611937920182
+    second: GH_UndeadHero copy_245
+  - first:
+      213: 5684475229497845697
+    second: GH_UndeadHero copy_246
+  - first:
+      213: 8360037755739534329
+    second: GH_UndeadHero copy_247
+  - first:
+      213: -7999586236605734577
+    second: GH_UndeadHero copy_248
+  - first:
+      213: -1115341004316820297
+    second: GH_UndeadHero copy_249
+  - first:
+      213: -2571965736962054168
+    second: GH_UndeadHero copy_250
+  - first:
+      213: 2294863408785629475
+    second: GH_UndeadHero copy_251
+  - first:
+      213: -2066456157450073861
+    second: GH_UndeadHero copy_252
+  - first:
+      213: 6598389800484671754
+    second: GH_UndeadHero copy_253
+  - first:
+      213: -3878417010810596664
+    second: GH_UndeadHero copy_254
+  - first:
+      213: -2518838124103947046
+    second: GH_UndeadHero copy_255
+  - first:
+      213: 6442649906291180423
+    second: GH_UndeadHero copy_256
+  - first:
+      213: -2959261523987782411
+    second: GH_UndeadHero copy_257
+  - first:
+      213: -4098259861799271316
+    second: GH_UndeadHero copy_258
+  - first:
+      213: -7847027187039991597
+    second: GH_UndeadHero copy_259
+  - first:
+      213: -8875237381771339561
+    second: GH_UndeadHero copy_260
+  - first:
+      213: 3877647233716771368
+    second: GH_UndeadHero copy_261
+  - first:
+      213: 5033824222273847714
+    second: GH_UndeadHero copy_262
+  - first:
+      213: 4627188847575889326
+    second: GH_UndeadHero copy_263
+  - first:
+      213: -4883837933659805475
+    second: GH_UndeadHero copy_264
+  - first:
+      213: -3291232454840482120
+    second: GH_UndeadHero copy_265
+  - first:
+      213: 4017648279708062954
+    second: GH_UndeadHero copy_266
+  - first:
+      213: -3235796394629536975
+    second: GH_UndeadHero copy_267
+  - first:
+      213: -516839544560753468
+    second: GH_UndeadHero copy_268
+  - first:
+      213: 5160000606404645906
+    second: GH_UndeadHero copy_269
+  - first:
+      213: -4497328886305473747
+    second: GH_UndeadHero copy_270
+  - first:
+      213: 351428715592178887
+    second: GH_UndeadHero copy_271
+  - first:
+      213: -1913668388059264471
+    second: GH_UndeadHero copy_272
+  - first:
+      213: 6732473861982513963
+    second: GH_UndeadHero copy_273
+  - first:
+      213: 4897139863442110111
+    second: GH_UndeadHero copy_274
+  - first:
+      213: -5054529550451585702
+    second: GH_UndeadHero copy_275
+  - first:
+      213: 6965270984176826085
+    second: GH_UndeadHero copy_276
+  - first:
+      213: -4060855051157763623
+    second: GH_UndeadHero copy_277
+  - first:
+      213: 1294458219920222197
+    second: GH_UndeadHero copy_278
+  - first:
+      213: 7482382958442451628
+    second: GH_UndeadHero copy_279
+  - first:
+      213: -8337652178521330588
+    second: GH_UndeadHero copy_280
+  - first:
+      213: -8259678385283427910
+    second: GH_UndeadHero copy_281
+  - first:
+      213: -2852511451926024332
+    second: GH_UndeadHero copy_282
+  - first:
+      213: -2142667903399930272
+    second: GH_UndeadHero copy_283
+  - first:
+      213: -8786869445202555385
+    second: GH_UndeadHero copy_284
+  - first:
+      213: 4929983164082928365
+    second: GH_UndeadHero copy_285
+  - first:
+      213: -8038142753073930813
+    second: GH_UndeadHero copy_286
+  - first:
+      213: -7162875912956991216
+    second: GH_UndeadHero copy_287
+  - first:
+      213: 7246146755983033647
+    second: GH_UndeadHero copy_288
+  - first:
+      213: -4324468834073362962
+    second: GH_UndeadHero copy_289
+  - first:
+      213: 5131412108512880184
+    second: GH_UndeadHero copy_290
+  - first:
+      213: -3379927886475801040
+    second: GH_UndeadHero copy_291
+  - first:
+      213: 265010249110692588
+    second: GH_UndeadHero copy_292
+  - first:
+      213: -5082163690819002132
+    second: GH_UndeadHero copy_293
+  - first:
+      213: -838433138953286212
+    second: GH_UndeadHero copy_294
+  - first:
+      213: -4048020886184086608
+    second: GH_UndeadHero copy_295
+  - first:
+      213: -7418030863158919790
+    second: GH_UndeadHero copy_296
+  - first:
+      213: -196630735020132742
+    second: GH_UndeadHero copy_297
+  - first:
+      213: -1065519159774748049
+    second: GH_UndeadHero copy_298
+  - first:
+      213: 2855194219083436974
+    second: GH_UndeadHero copy_299
+  - first:
+      213: -2676391875171056823
+    second: GH_UndeadHero copy_300
+  - first:
+      213: -6249238533432068707
+    second: GH_UndeadHero copy_301
+  - first:
+      213: -151399233435471355
+    second: GH_UndeadHero copy_302
+  - first:
+      213: -5331423628822155337
+    second: GH_UndeadHero copy_303
+  - first:
+      213: -1718858969544218491
+    second: GH_UndeadHero copy_304
+  - first:
+      213: 4585884458304201487
+    second: GH_UndeadHero copy_305
+  - first:
+      213: -4643714720329307809
+    second: GH_UndeadHero copy_306
+  - first:
+      213: 2023804603144235995
+    second: GH_UndeadHero copy_307
+  - first:
+      213: -5391129065230547252
+    second: GH_UndeadHero copy_308
+  - first:
+      213: 3890387465066261790
+    second: GH_UndeadHero copy_309
+  - first:
+      213: 136600230387899255
+    second: GH_UndeadHero copy_310
+  - first:
+      213: -121062077172162341
+    second: GH_UndeadHero copy_311
+  - first:
+      213: -3843699273544537856
+    second: GH_UndeadHero copy_312
+  - first:
+      213: 2434338370927584589
+    second: GH_UndeadHero copy_313
+  - first:
+      213: -5880307744598101115
+    second: GH_UndeadHero copy_314
+  - first:
+      213: 5111268411103988471
+    second: GH_UndeadHero copy_315
+  - first:
+      213: 1781785552809745076
+    second: GH_UndeadHero copy_316
+  - first:
+      213: 3200239462659948281
+    second: GH_UndeadHero copy_317
+  - first:
+      213: -4862835703877481889
+    second: GH_UndeadHero copy_318
+  - first:
+      213: -6575686430454741226
+    second: GH_UndeadHero copy_319
+  - first:
+      213: 7647418190833511655
+    second: GH_UndeadHero copy_320
+  - first:
+      213: -6668208490471018861
+    second: GH_UndeadHero copy_321
+  - first:
+      213: -7447556738411919444
+    second: GH_UndeadHero copy_322
+  - first:
+      213: 4217865581827462541
+    second: GH_UndeadHero copy_323
+  - first:
+      213: -3438330630649783907
+    second: GH_UndeadHero copy_324
+  - first:
+      213: -5534380388998458307
+    second: GH_UndeadHero copy_325
+  - first:
+      213: 8910596395824546347
+    second: GH_UndeadHero copy_326
+  - first:
+      213: -5427365505251573090
+    second: GH_UndeadHero copy_327
+  - first:
+      213: 1720228065776444995
+    second: GH_UndeadHero copy_328
+  - first:
+      213: 903336392534074883
+    second: GH_UndeadHero copy_329
+  - first:
+      213: -5173615244701973255
+    second: GH_UndeadHero copy_330
+  - first:
+      213: 3852864324545959430
+    second: GH_UndeadHero copy_331
+  - first:
+      213: 8182847689854518933
+    second: GH_UndeadHero copy_332
+  - first:
+      213: 568977957633021515
+    second: GH_UndeadHero copy_333
+  - first:
+      213: -5878787146054869313
+    second: GH_UndeadHero copy_334
+  - first:
+      213: 885587987955432972
+    second: GH_UndeadHero copy_335
+  - first:
+      213: -8935813424584054333
+    second: GH_UndeadHero copy_336
+  - first:
+      213: 1455737038179016447
+    second: GH_UndeadHero copy_337
+  - first:
+      213: -4861380640042254474
+    second: GH_UndeadHero copy_338
+  - first:
+      213: 7688557379750137470
+    second: GH_UndeadHero copy_339
+  - first:
+      213: -3252715948988417969
+    second: GH_UndeadHero copy_340
+  - first:
+      213: 7618891751311367133
+    second: GH_UndeadHero copy_341
+  - first:
+      213: 1688663176304037703
+    second: GH_UndeadHero copy_342
+  - first:
+      213: 2112025920957749977
+    second: GH_UndeadHero copy_343
+  - first:
+      213: 8458589020132787865
+    second: GH_UndeadHero copy_344
+  - first:
+      213: -4635582969419865712
+    second: GH_UndeadHero copy_345
+  - first:
+      213: 4952647998231323663
+    second: GH_UndeadHero copy_346
+  - first:
+      213: 6584697942509388671
+    second: GH_UndeadHero copy_347
+  - first:
+      213: 400702547495976742
+    second: GH_UndeadHero copy_348
+  - first:
+      213: -4961424795371037888
+    second: GH_UndeadHero copy_349
+  - first:
+      213: 712370543827547233
+    second: GH_UndeadHero copy_350
+  - first:
+      213: 8043147391118254529
+    second: GH_UndeadHero copy_351
+  - first:
+      213: 7339175549041792297
+    second: GH_UndeadHero copy_352
+  - first:
+      213: -3445905154746906084
+    second: GH_UndeadHero copy_353
+  - first:
+      213: 9174982903202882928
+    second: GH_UndeadHero copy_354
+  - first:
+      213: 4538937219709265188
+    second: GH_UndeadHero copy_355
+  - first:
+      213: -1154183583827812749
+    second: GH_UndeadHero copy_356
+  - first:
+      213: -8906641378345958800
+    second: GH_UndeadHero copy_357
+  - first:
+      213: 358708344644197122
+    second: GH_UndeadHero copy_358
+  - first:
+      213: -1911702448203227899
+    second: GH_UndeadHero copy_359
+  - first:
+      213: 4207583672406338787
+    second: GH_UndeadHero copy_360
+  - first:
+      213: 713468396076475611
+    second: GH_UndeadHero copy_361
+  - first:
+      213: -5191237399832395383
+    second: GH_UndeadHero copy_362
+  - first:
+      213: -2028262809991305585
+    second: GH_UndeadHero copy_363
+  - first:
+      213: 9041811449808336189
+    second: GH_UndeadHero copy_364
+  - first:
+      213: -868040435939092641
+    second: GH_UndeadHero copy_365
+  - first:
+      213: -5291544465201069747
+    second: GH_UndeadHero copy_366
+  - first:
+      213: -9171396231967756032
+    second: GH_UndeadHero copy_367
+  - first:
+      213: 6975093657935648485
+    second: GH_UndeadHero copy_368
+  - first:
+      213: -6644778576859044018
+    second: GH_UndeadHero copy_369
+  - first:
+      213: -3523497446106868409
+    second: GH_UndeadHero copy_370
+  - first:
+      213: -1345558491205507881
+    second: GH_UndeadHero copy_371
+  - first:
+      213: 3462700478178659545
+    second: GH_UndeadHero copy_372
+  - first:
+      213: 3226666559449742298
+    second: GH_UndeadHero copy_373
+  - first:
+      213: 322546607709980430
+    second: GH_UndeadHero copy_374
+  - first:
+      213: 7388881222626462996
+    second: GH_UndeadHero copy_375
+  - first:
+      213: 6025915572281654564
+    second: GH_UndeadHero copy_376
+  - first:
+      213: 6789040501379621181
+    second: GH_UndeadHero copy_377
+  - first:
+      213: -4069099605807569408
+    second: GH_UndeadHero copy_378
+  - first:
+      213: -94404688507349345
+    second: GH_UndeadHero copy_379
+  - first:
+      213: -1972160370537157413
+    second: GH_UndeadHero copy_380
+  - first:
+      213: 5014199768529359615
+    second: GH_UndeadHero copy_381
+  - first:
+      213: -6458126013209793461
+    second: GH_UndeadHero copy_382
+  - first:
+      213: 2893670814026727958
+    second: GH_UndeadHero copy_383
+  - first:
+      213: -5802296129892149490
+    second: GH_UndeadHero copy_384
+  - first:
+      213: -3421530348014171879
+    second: GH_UndeadHero copy_385
+  - first:
+      213: -4246823750396710671
+    second: GH_UndeadHero copy_386
+  - first:
+      213: 1262143600714341776
+    second: GH_UndeadHero copy_387
+  - first:
+      213: 812125940292086201
+    second: GH_UndeadHero copy_388
+  - first:
+      213: 5609677693554283105
+    second: GH_UndeadHero copy_389
+  - first:
+      213: -9067338637950321912
+    second: GH_UndeadHero copy_390
+  - first:
+      213: -211503960423892677
+    second: GH_UndeadHero copy_391
+  - first:
+      213: -2622973810410140680
+    second: GH_UndeadHero copy_392
+  - first:
+      213: -6196811531770413804
+    second: GH_UndeadHero copy_393
+  - first:
+      213: -4733503962161379508
+    second: GH_UndeadHero copy_394
+  - first:
+      213: 3795840790790061295
+    second: GH_UndeadHero copy_395
+  - first:
+      213: 3918923885861088888
+    second: GH_UndeadHero copy_396
+  - first:
+      213: -9014020898363024361
+    second: GH_UndeadHero copy_397
+  - first:
+      213: 5629410735416761212
+    second: GH_UndeadHero copy_398
+  - first:
+      213: 8417888720484326553
+    second: GH_UndeadHero copy_399
+  - first:
+      213: -2543543305148956284
+    second: GH_UndeadHero copy_400
+  - first:
+      213: -651397868863999184
+    second: GH_UndeadHero copy_401
+  - first:
+      213: -6905569310654044433
+    second: GH_UndeadHero copy_402
+  - first:
+      213: -6057057001177553587
+    second: GH_UndeadHero copy_403
+  - first:
+      213: 666098581709699490
+    second: GH_UndeadHero copy_404
+  - first:
+      213: 100421436585682027
+    second: GH_UndeadHero copy_405
+  - first:
+      213: 2432539046906631254
+    second: GH_UndeadHero copy_406
+  - first:
+      213: 3546072126250661347
+    second: GH_UndeadHero copy_407
+  - first:
+      213: -3256861955352193597
+    second: GH_UndeadHero copy_408
+  - first:
+      213: -3407396407447951724
+    second: GH_UndeadHero copy_409
+  - first:
+      213: 4814805276853034726
+    second: GH_UndeadHero copy_410
+  - first:
+      213: 2437761865642789229
+    second: GH_UndeadHero copy_411
+  - first:
+      213: -9123698339464495853
+    second: GH_UndeadHero copy_412
+  - first:
+      213: -271978954406344930
+    second: GH_UndeadHero copy_413
+  - first:
+      213: -9072371237806519829
+    second: GH_UndeadHero copy_414
+  - first:
+      213: -533712059310758876
+    second: GH_UndeadHero copy_415
+  - first:
+      213: -407944659796429504
+    second: GH_UndeadHero copy_416
+  - first:
+      213: 7939536996035220203
+    second: GH_UndeadHero copy_417
+  - first:
+      213: 1938926299259052363
+    second: GH_UndeadHero copy_418
+  - first:
+      213: -6380034520406251174
+    second: GH_UndeadHero copy_419
+  - first:
+      213: -2886925586686692168
+    second: GH_UndeadHero copy_420
+  - first:
+      213: 8628496929983090404
+    second: GH_UndeadHero copy_421
+  - first:
+      213: -5029155598106113901
+    second: GH_UndeadHero copy_422
+  - first:
+      213: 2070904693930400134
+    second: GH_UndeadHero copy_423
+  - first:
+      213: -7139074386391412728
+    second: GH_UndeadHero copy_424
+  - first:
+      213: 8017037447928040116
+    second: GH_UndeadHero copy_425
+  - first:
+      213: 3205760108767114215
+    second: GH_UndeadHero copy_426
+  - first:
+      213: 7721563793848344423
+    second: GH_UndeadHero copy_427
+  - first:
+      213: -9216698560654187672
+    second: GH_UndeadHero copy_428
+  - first:
+      213: 8665160597829587287
+    second: GH_UndeadHero copy_429
+  - first:
+      213: -1497072496278377540
+    second: GH_UndeadHero copy_430
+  - first:
+      213: -7298979850580486275
+    second: GH_UndeadHero copy_431
+  - first:
+      213: 5206230775673992697
+    second: GH_UndeadHero copy_432
+  - first:
+      213: 749450566335825889
+    second: GH_UndeadHero copy_433
+  - first:
+      213: -5578496680001089401
+    second: GH_UndeadHero copy_434
+  - first:
+      213: -7704491002405943411
+    second: GH_UndeadHero copy_435
+  - first:
+      213: 6219023248602233615
+    second: GH_UndeadHero copy_436
+  - first:
+      213: 5220175840240909824
+    second: GH_UndeadHero copy_437
+  - first:
+      213: 1439743558305779175
+    second: GH_UndeadHero copy_438
+  - first:
+      213: 5364443044422064639
+    second: GH_UndeadHero copy_439
+  - first:
+      213: 718071290018584041
+    second: GH_UndeadHero copy_440
+  - first:
+      213: 4121353795260770329
+    second: GH_UndeadHero copy_441
+  - first:
+      213: -8833587420168631389
+    second: GH_UndeadHero copy_442
+  - first:
+      213: 4906372365232517944
+    second: GH_UndeadHero copy_443
+  - first:
+      213: 8321659827913382254
+    second: GH_UndeadHero copy_444
+  - first:
+      213: 4176183231933580607
+    second: GH_UndeadHero copy_445
+  - first:
+      213: 1767360649225355560
+    second: GH_UndeadHero copy_446
+  - first:
+      213: 423824374776476271
+    second: GH_UndeadHero copy_447
+  - first:
+      213: -1131617480846623891
+    second: GH_UndeadHero copy_448
+  - first:
+      213: -5010875946000326450
+    second: GH_UndeadHero copy_449
+  - first:
+      213: 9160687933420809514
+    second: GH_UndeadHero copy_450
+  - first:
+      213: 5382490120880421111
+    second: GH_UndeadHero copy_451
+  - first:
+      213: -2514533974287357532
+    second: GH_UndeadHero copy_452
+  - first:
+      213: -4176451394805561468
+    second: GH_UndeadHero copy_453
+  - first:
+      213: -7141114423763001412
+    second: GH_UndeadHero copy_454
+  - first:
+      213: -6823498803380692566
+    second: GH_UndeadHero copy_455
+  - first:
+      213: -4890791762945107832
+    second: GH_UndeadHero copy_456
+  - first:
+      213: 8463960737970219614
+    second: GH_UndeadHero copy_457
+  - first:
+      213: 5412909039055773146
+    second: GH_UndeadHero copy_458
+  - first:
+      213: 4503904025176076263
+    second: GH_UndeadHero copy_459
+  - first:
+      213: 2766497313968580687
+    second: GH_UndeadHero copy_460
+  - first:
+      213: -6292873569457902963
+    second: GH_UndeadHero copy_461
+  - first:
+      213: -4664459225242262160
+    second: GH_UndeadHero copy_462
+  - first:
+      213: -1098396122043316029
+    second: GH_UndeadHero copy_463
+  - first:
+      213: -5452471369680520998
+    second: GH_UndeadHero copy_464
+  - first:
+      213: 7817393254227784861
+    second: GH_UndeadHero copy_465
+  - first:
+      213: 492700480718991051
+    second: GH_UndeadHero copy_466
+  - first:
+      213: 417831422874507547
+    second: GH_UndeadHero copy_467
+  - first:
+      213: 6642583716110565854
+    second: GH_UndeadHero copy_468
+  - first:
+      213: 2162318367927640170
+    second: GH_UndeadHero copy_469
+  - first:
+      213: 2580503038266390386
+    second: GH_UndeadHero copy_470
+  - first:
+      213: 9169973144687495942
+    second: GH_UndeadHero copy_471
+  - first:
+      213: -389341632796362253
+    second: GH_UndeadHero copy_472
+  - first:
+      213: 6978452702567606538
+    second: GH_UndeadHero copy_473
+  - first:
+      213: 4319848224330471637
+    second: GH_UndeadHero copy_474
+  - first:
+      213: 3502267226160952182
+    second: GH_UndeadHero copy_475
+  - first:
+      213: 8328596094465423346
+    second: GH_UndeadHero copy_476
+  - first:
+      213: 5794176519104337541
+    second: GH_UndeadHero copy_477
+  - first:
+      213: -999385569923941215
+    second: GH_UndeadHero copy_478
+  - first:
+      213: 1680582516278578529
+    second: GH_UndeadHero copy_479
+  - first:
+      213: -3880646176025057062
+    second: GH_UndeadHero copy_480
+  - first:
+      213: -5683698331426004966
+    second: GH_UndeadHero copy_481
+  - first:
+      213: -327956703518701801
+    second: GH_UndeadHero copy_482
+  - first:
+      213: 1218302764738640317
+    second: GH_UndeadHero copy_483
+  - first:
+      213: 331706404211412181
+    second: GH_UndeadHero copy_484
+  - first:
+      213: 6991901552470144471
+    second: GH_UndeadHero copy_485
+  - first:
+      213: -486210569207898451
+    second: GH_UndeadHero copy_486
+  - first:
+      213: -3809918270524428626
+    second: GH_UndeadHero copy_487
+  - first:
+      213: -8763954123256509301
+    second: GH_UndeadHero copy_488
+  - first:
+      213: 1312771245452178313
+    second: GH_UndeadHero copy_489
+  - first:
+      213: -8828980775325485699
+    second: GH_UndeadHero copy_490
+  - first:
+      213: 1471951059073828507
+    second: GH_UndeadHero copy_491
+  - first:
+      213: -2665414235221355296
+    second: GH_UndeadHero copy_492
+  - first:
+      213: 1283690835778379097
+    second: GH_UndeadHero copy_493
+  - first:
+      213: 2469587902082507448
+    second: GH_UndeadHero copy_494
+  - first:
+      213: -295779230342806686
+    second: GH_UndeadHero copy_495
+  - first:
+      213: 7704783529740086741
+    second: GH_UndeadHero copy_496
+  - first:
+      213: -7364276201191797839
+    second: GH_UndeadHero copy_497
+  - first:
+      213: -5107879245301645888
+    second: GH_UndeadHero copy_498
+  - first:
+      213: 5633700043123423056
+    second: GH_UndeadHero copy_499
+  - first:
+      213: -8931554480756835458
+    second: GH_UndeadHero copy_500
+  - first:
+      213: 7945112231409248665
+    second: GH_UndeadHero copy_501
+  - first:
+      213: 4026716977887447142
+    second: GH_UndeadHero copy_502
+  - first:
+      213: -2554286892561643353
+    second: GH_UndeadHero copy_503
+  - first:
+      213: 6053513472065366393
+    second: GH_UndeadHero copy_504
+  - first:
+      213: -2059329998193774798
+    second: GH_UndeadHero copy_505
+  - first:
+      213: -2415612962550625635
+    second: GH_UndeadHero copy_506
+  - first:
+      213: 2068308462346645988
+    second: GH_UndeadHero copy_507
+  - first:
+      213: -5965270966481234707
+    second: GH_UndeadHero copy_508
+  - first:
+      213: 7710281780918884985
+    second: GH_UndeadHero copy_509
+  - first:
+      213: 6347902720921176287
+    second: GH_UndeadHero copy_510
+  - first:
+      213: -5388409530610548445
+    second: GH_UndeadHero copy_511
+  - first:
+      213: 8693225163895861953
+    second: GH_UndeadHero copy_512
+  - first:
+      213: -1822165562346651462
+    second: GH_UndeadHero copy_513
+  - first:
+      213: 6017134639029828782
+    second: GH_UndeadHero copy_514
+  - first:
+      213: 6967722039917084908
+    second: GH_UndeadHero copy_515
+  - first:
+      213: 4336770614408174322
+    second: GH_UndeadHero copy_516
+  - first:
+      213: -1087977840447260673
+    second: GH_UndeadHero copy_517
+  - first:
+      213: -5608243778510880540
+    second: GH_UndeadHero copy_518
+  - first:
+      213: 1277473737391408500
+    second: GH_UndeadHero copy_519
+  - first:
+      213: -3188964344919674002
+    second: GH_UndeadHero copy_520
+  - first:
+      213: -1219433830899040805
+    second: GH_UndeadHero copy_521
+  - first:
+      213: -5968467022581317141
+    second: GH_UndeadHero copy_522
+  - first:
+      213: -4458120030788341249
+    second: GH_UndeadHero copy_523
+  - first:
+      213: -4919101993962908631
+    second: GH_UndeadHero copy_524
+  - first:
+      213: 1715357819295892824
+    second: GH_UndeadHero copy_525
+  - first:
+      213: -1558694833350541852
+    second: GH_UndeadHero copy_526
+  - first:
+      213: -4434448236695757820
+    second: GH_UndeadHero copy_527
+  - first:
+      213: 7766112873973705606
+    second: GH_UndeadHero copy_528
+  - first:
+      213: -6918155933588544841
+    second: GH_UndeadHero copy_529
+  - first:
+      213: -7109673661854790912
+    second: GH_UndeadHero copy_530
+  - first:
+      213: 4549376668182997023
+    second: GH_UndeadHero copy_531
+  - first:
+      213: 1242823519197565109
+    second: GH_UndeadHero copy_532
+  - first:
+      213: 4939104948701180277
+    second: GH_UndeadHero copy_533
+  - first:
+      213: -8468835944794168307
+    second: GH_UndeadHero copy_534
+  - first:
+      213: -8107426818192293893
+    second: GH_UndeadHero copy_535
+  - first:
+      213: 482484585352505718
+    second: GH_UndeadHero copy_536
+  - first:
+      213: -2696599340265823993
+    second: GH_UndeadHero copy_537
+  - first:
+      213: 8361249026791916546
+    second: GH_UndeadHero copy_538
+  - first:
+      213: -1428705670979980755
+    second: GH_UndeadHero copy_539
+  - first:
+      213: 6226340567191107699
+    second: GH_UndeadHero copy_540
+  - first:
+      213: 8529704824777328017
+    second: GH_UndeadHero copy_541
+  - first:
+      213: -1372134217040653156
+    second: GH_UndeadHero copy_542
+  - first:
+      213: -3668431592309113565
+    second: GH_UndeadHero copy_543
+  - first:
+      213: -7490121742109545389
+    second: GH_UndeadHero copy_544
+  - first:
+      213: 540221396863529923
+    second: GH_UndeadHero copy_545
+  - first:
+      213: 6690291381304313278
+    second: GH_UndeadHero copy_546
+  - first:
+      213: 5850221761855533104
+    second: GH_UndeadHero copy_547
+  - first:
+      213: 6184570649484222036
+    second: GH_UndeadHero copy_548
+  - first:
+      213: -1952714914937105927
+    second: GH_UndeadHero copy_549
+  - first:
+      213: 7387579323910313967
+    second: GH_UndeadHero copy_550
+  - first:
+      213: -4583994308082514560
+    second: GH_UndeadHero copy_551
+  - first:
+      213: -1974356674045011977
+    second: GH_UndeadHero copy_552
+  - first:
+      213: -698036406304714073
+    second: GH_UndeadHero copy_553
+  - first:
+      213: -6036941526469839940
+    second: GH_UndeadHero copy_554
+  - first:
+      213: 3083019197456043347
+    second: GH_UndeadHero copy_555
+  - first:
+      213: -2672013288182915648
+    second: GH_UndeadHero copy_556
+  - first:
+      213: 4429962880763760861
+    second: GH_UndeadHero copy_557
+  - first:
+      213: -4469126737536761675
+    second: GH_UndeadHero copy_558
+  - first:
+      213: -3575057633629775363
+    second: GH_UndeadHero copy_559
+  - first:
+      213: 2723186986350438713
+    second: GH_UndeadHero copy_560
+  - first:
+      213: -3463260170333291528
+    second: GH_UndeadHero copy_561
+  - first:
+      213: -4088505930614682232
+    second: GH_UndeadHero copy_562
+  - first:
+      213: 7179923938387365841
+    second: GH_UndeadHero copy_563
+  - first:
+      213: 7312668355357671557
+    second: GH_UndeadHero copy_564
+  - first:
+      213: 6294272642192854400
+    second: GH_UndeadHero copy_565
+  - first:
+      213: -6193935529424884620
+    second: GH_UndeadHero copy_566
+  - first:
+      213: 6199880410749594030
+    second: GH_UndeadHero copy_567
+  - first:
+      213: -6050461017193286467
+    second: GH_UndeadHero copy_568
+  - first:
+      213: -109101356616574164
+    second: GH_UndeadHero copy_569
+  - first:
+      213: -1924434769652012318
+    second: GH_UndeadHero copy_570
+  - first:
+      213: -5202757194350244850
+    second: GH_UndeadHero copy_571
+  - first:
+      213: -2906243568972557731
+    second: GH_UndeadHero copy_572
+  - first:
+      213: -5140523461705606024
+    second: GH_UndeadHero copy_573
+  - first:
+      213: -1977678350222289004
+    second: GH_UndeadHero copy_574
+  - first:
+      213: -3543183745488408448
+    second: GH_UndeadHero copy_575
+  - first:
+      213: 6123479637382866190
+    second: GH_UndeadHero copy_576
+  - first:
+      213: -5893676393158648462
+    second: GH_UndeadHero copy_577
+  - first:
+      213: -7268233974407368972
+    second: GH_UndeadHero copy_578
+  - first:
+      213: -8508640579766654019
+    second: GH_UndeadHero copy_579
+  - first:
+      213: -1185996196455199034
+    second: GH_UndeadHero copy_580
+  - first:
+      213: 1438781783665087004
+    second: GH_UndeadHero copy_581
+  - first:
+      213: -4592883001802129023
+    second: GH_UndeadHero copy_582
+  - first:
+      213: -4297004056199070366
+    second: GH_UndeadHero copy_583
+  - first:
+      213: -8906418507322308054
+    second: GH_UndeadHero copy_584
+  - first:
+      213: 1975238164870335675
+    second: GH_UndeadHero copy_585
+  - first:
+      213: 2603450886825584183
+    second: GH_UndeadHero copy_586
+  - first:
+      213: -1222438732474483901
+    second: GH_UndeadHero copy_587
+  - first:
+      213: -4050344909411696909
+    second: GH_UndeadHero copy_588
+  - first:
+      213: 669313553511712538
+    second: GH_UndeadHero copy_589
+  - first:
+      213: 4463643806212864386
+    second: GH_UndeadHero copy_590
+  - first:
+      213: 8328863036390926932
+    second: GH_UndeadHero copy_591
+  - first:
+      213: 7995454998764453672
+    second: GH_UndeadHero copy_592
+  - first:
+      213: 122759963654283408
+    second: GH_UndeadHero copy_593
+  - first:
+      213: -8602418990352531956
+    second: GH_UndeadHero copy_594
+  - first:
+      213: -6193083604932868805
+    second: GH_UndeadHero copy_595
+  - first:
+      213: 5700268835067546214
+    second: GH_UndeadHero copy_596
+  - first:
+      213: -375062760160104519
+    second: GH_UndeadHero copy_597
+  - first:
+      213: -1068758750745385127
+    second: GH_UndeadHero copy_598
+  - first:
+      213: 1312977560049976643
+    second: GH_UndeadHero copy_599
+  - first:
+      213: 8495998981362207483
+    second: GH_UndeadHero copy_600
+  - first:
+      213: -5427579220053050858
+    second: GH_UndeadHero copy_601
+  - first:
+      213: -3845422261379844053
+    second: GH_UndeadHero copy_602
+  - first:
+      213: -5574458265560787629
+    second: GH_UndeadHero copy_603
+  - first:
+      213: 3185523064602313394
+    second: GH_UndeadHero copy_604
+  - first:
+      213: -6782922760960000758
+    second: GH_UndeadHero copy_605
+  - first:
+      213: 1140005220547489158
+    second: GH_UndeadHero copy_606
+  - first:
+      213: 3521765209235813791
+    second: GH_UndeadHero copy_607
+  - first:
+      213: 7221382947868508464
+    second: GH_UndeadHero copy_608
+  - first:
+      213: -745271243502486530
+    second: GH_UndeadHero copy_609
+  - first:
+      213: 5778055861283505879
+    second: GH_UndeadHero copy_610
+  - first:
+      213: 7911701252814778203
+    second: GH_UndeadHero copy_611
+  - first:
+      213: 4427383039366681482
+    second: GH_UndeadHero copy_612
+  - first:
+      213: -5727732873847399803
+    second: GH_UndeadHero copy_613
+  - first:
+      213: 5212811698959024262
+    second: GH_UndeadHero copy_614
+  - first:
+      213: -2131227840429818211
+    second: GH_UndeadHero copy_615
+  - first:
+      213: -569241885596680031
+    second: GH_UndeadHero copy_616
+  - first:
+      213: -8367897221179874827
+    second: GH_UndeadHero copy_617
+  - first:
+      213: -6515002758675649451
+    second: GH_UndeadHero copy_618
+  - first:
+      213: -2316033941279283452
+    second: GH_UndeadHero copy_619
+  - first:
+      213: -4966682035964580715
+    second: GH_UndeadHero copy_620
+  - first:
+      213: 2429776399006983981
+    second: GH_UndeadHero copy_621
+  - first:
+      213: 3441335535697323512
+    second: GH_UndeadHero copy_622
+  - first:
+      213: -7214208679128346452
+    second: GH_UndeadHero copy_623
+  - first:
+      213: 162776302319932559
+    second: GH_UndeadHero copy_624
+  - first:
+      213: 5794910925936225579
+    second: GH_UndeadHero copy_625
+  - first:
+      213: 2710742994477541420
+    second: GH_UndeadHero copy_626
+  - first:
+      213: 2862915632434094159
+    second: GH_UndeadHero copy_627
+  - first:
+      213: 1465853775141408316
+    second: GH_UndeadHero copy_628
+  - first:
+      213: -9137870386874223301
+    second: GH_UndeadHero copy_629
+  - first:
+      213: 5689026942734667434
+    second: GH_UndeadHero copy_630
+  - first:
+      213: -562572942596392598
+    second: GH_UndeadHero copy_631
+  - first:
+      213: -1293299484762565003
+    second: GH_UndeadHero copy_632
+  - first:
+      213: -437499859644257243
+    second: GH_UndeadHero copy_633
+  - first:
+      213: -8832827969738722862
+    second: GH_UndeadHero copy_634
+  - first:
+      213: -1205683091928150472
+    second: GH_UndeadHero copy_635
+  - first:
+      213: 8656850751802204634
+    second: GH_UndeadHero copy_636
+  - first:
+      213: 8487274162702235358
+    second: GH_UndeadHero copy_637
+  - first:
+      213: -3633925475667496192
+    second: GH_UndeadHero copy_638
+  - first:
+      213: 3066065224288413878
+    second: GH_UndeadHero copy_639
+  - first:
+      213: 7515749091616970682
+    second: GH_UndeadHero copy_640
+  - first:
+      213: 4879209365837496147
+    second: GH_UndeadHero copy_641
+  - first:
+      213: 3112310856279540108
+    second: GH_UndeadHero copy_642
+  - first:
+      213: 2521321098302161427
+    second: GH_UndeadHero copy_643
+  - first:
+      213: -3858282020921377743
+    second: GH_UndeadHero copy_644
+  - first:
+      213: -7830736944227079375
+    second: GH_UndeadHero copy_645
+  - first:
+      213: -3503436007919335873
+    second: GH_UndeadHero copy_646
+  - first:
+      213: -2983383716885913941
+    second: GH_UndeadHero copy_647
+  - first:
+      213: 7481694679317174660
+    second: GH_UndeadHero copy_648
+  - first:
+      213: -1189541585330371207
+    second: GH_UndeadHero copy_649
+  - first:
+      213: -6215005886803101342
+    second: GH_UndeadHero copy_650
+  - first:
+      213: 3458161659160905497
+    second: GH_UndeadHero copy_651
+  - first:
+      213: -246122019731241736
+    second: GH_UndeadHero copy_652
+  - first:
+      213: 35486044753504367
+    second: GH_UndeadHero copy_653
+  - first:
+      213: 3032738742303869029
+    second: GH_UndeadHero copy_654
+  - first:
+      213: 4829199396535284467
+    second: GH_UndeadHero copy_655
+  - first:
+      213: -47738880182426767
+    second: GH_UndeadHero copy_656
+  - first:
+      213: 4732108823654079390
+    second: GH_UndeadHero copy_657
+  - first:
+      213: -6058042163890394866
+    second: GH_UndeadHero copy_658
+  - first:
+      213: -5077307864600049006
+    second: GH_UndeadHero copy_659
+  - first:
+      213: 894555327696241131
+    second: GH_UndeadHero copy_660
+  - first:
+      213: 6049641660017782538
+    second: GH_UndeadHero copy_661
+  - first:
+      213: -2026419975387582355
+    second: GH_UndeadHero copy_662
+  - first:
+      213: -1360498927852040505
+    second: GH_UndeadHero copy_663
+  - first:
+      213: 8509230325595145739
+    second: GH_UndeadHero copy_664
+  - first:
+      213: -3877804386978444997
+    second: GH_UndeadHero copy_665
+  - first:
+      213: 524345115341078372
+    second: GH_UndeadHero copy_666
+  - first:
+      213: -4210402167640196423
+    second: GH_UndeadHero copy_667
+  - first:
+      213: -5996007650572900128
+    second: GH_UndeadHero copy_668
+  - first:
+      213: -3336720509671851237
+    second: GH_UndeadHero copy_669
+  - first:
+      213: -1910472735511879889
+    second: GH_UndeadHero copy_670
+  - first:
+      213: -8829518256227335646
+    second: GH_UndeadHero copy_671
+  - first:
+      213: -9129069544952591155
+    second: GH_UndeadHero copy_672
+  - first:
+      213: 103166803062643797
+    second: GH_UndeadHero copy_673
+  - first:
+      213: -8337103798959866598
+    second: GH_UndeadHero copy_674
+  - first:
+      213: -3382740874520987778
+    second: GH_UndeadHero copy_675
+  - first:
+      213: 7730741792512189130
+    second: GH_UndeadHero copy_676
+  - first:
+      213: 8779608328314032464
+    second: GH_UndeadHero copy_677
+  - first:
+      213: -99444168957508149
+    second: GH_UndeadHero copy_678
+  - first:
+      213: 3243444256364965995
+    second: GH_UndeadHero copy_679
+  - first:
+      213: 70542384377454506
+    second: GH_UndeadHero copy_680
+  - first:
+      213: -834649031331762388
+    second: GH_UndeadHero copy_681
+  - first:
+      213: -8350934224025051239
+    second: GH_UndeadHero copy_682
+  - first:
+      213: -3581987585530177655
+    second: GH_UndeadHero copy_683
+  - first:
+      213: -1112705088695469216
+    second: GH_UndeadHero copy_684
+  - first:
+      213: -5534842074521804956
+    second: GH_UndeadHero copy_685
+  - first:
+      213: -1768328006516203803
+    second: GH_UndeadHero copy_686
+  - first:
+      213: 6800109945571640097
+    second: GH_UndeadHero copy_687
+  - first:
+      213: 923622928348065556
+    second: GH_UndeadHero copy_688
+  - first:
+      213: -3623298576871217040
+    second: GH_UndeadHero copy_689
+  - first:
+      213: -8726987431572129325
+    second: GH_UndeadHero copy_690
+  - first:
+      213: 6428113880798915276
+    second: GH_UndeadHero copy_691
+  - first:
+      213: -4989287121159463516
+    second: GH_UndeadHero copy_692
+  - first:
+      213: -8645889745880854955
+    second: GH_UndeadHero copy_693
+  - first:
+      213: 7097481441713138126
+    second: GH_UndeadHero copy_694
+  - first:
+      213: 1906138467478114404
+    second: GH_UndeadHero copy_695
+  - first:
+      213: 7991477588362819227
+    second: GH_UndeadHero copy_696
+  - first:
+      213: -6572604216248068091
+    second: GH_UndeadHero copy_697
+  - first:
+      213: 5232332636550630892
+    second: GH_UndeadHero copy_698
+  - first:
+      213: -7364788770397730401
+    second: GH_UndeadHero copy_699
+  - first:
+      213: 9118250776394504069
+    second: GH_UndeadHero copy_700
+  - first:
+      213: 2551392124457746405
+    second: GH_UndeadHero copy_701
+  - first:
+      213: -3782112169844598789
+    second: GH_UndeadHero copy_702
+  - first:
+      213: -6982746065269219022
+    second: GH_UndeadHero copy_703
+  - first:
+      213: 3528037982292034099
+    second: GH_UndeadHero copy_704
+  - first:
+      213: -3760436405445493497
+    second: GH_UndeadHero copy_705
+  - first:
+      213: -993249321111064818
+    second: GH_UndeadHero copy_706
+  - first:
+      213: 7563685444245723579
+    second: GH_UndeadHero copy_707
+  - first:
+      213: -543038346568053272
+    second: GH_UndeadHero copy_708
+  - first:
+      213: -2329663941221071538
+    second: GH_UndeadHero copy_709
+  - first:
+      213: -6707291655691726463
+    second: GH_UndeadHero copy_710
+  - first:
+      213: -7627002414386549810
+    second: GH_UndeadHero copy_711
+  - first:
+      213: -6957021500264888220
+    second: GH_UndeadHero copy_712
+  - first:
+      213: -8695877552481325416
+    second: GH_UndeadHero copy_713
+  - first:
+      213: -9182828376894459087
+    second: GH_UndeadHero copy_714
+  - first:
+      213: 3889595186519088826
+    second: GH_UndeadHero copy_715
+  - first:
+      213: -1476151278805093211
+    second: GH_UndeadHero copy_716
+  - first:
+      213: -3067080069691640309
+    second: GH_UndeadHero copy_717
+  - first:
+      213: 814821980287986921
+    second: GH_UndeadHero copy_718
+  - first:
+      213: -4524786833198954481
+    second: GH_UndeadHero copy_719
+  - first:
+      213: -5712075133860265755
+    second: GH_UndeadHero copy_720
+  - first:
+      213: 7977187344715866354
+    second: GH_UndeadHero copy_721
+  - first:
+      213: 1873851106212566809
+    second: GH_UndeadHero copy_722
+  - first:
+      213: -1478225867878099781
+    second: GH_UndeadHero copy_723
+  - first:
+      213: 8895938869814650202
+    second: GH_UndeadHero copy_724
+  - first:
+      213: 1560736576227412122
+    second: GH_UndeadHero copy_725
+  - first:
+      213: 5369674318903897446
+    second: GH_UndeadHero copy_726
+  - first:
+      213: 6473058256693032318
+    second: GH_UndeadHero copy_727
+  - first:
+      213: 5372206076062145977
+    second: GH_UndeadHero copy_728
+  - first:
+      213: -3272240380907741168
+    second: GH_UndeadHero copy_729
+  - first:
+      213: -4203740132264760217
+    second: GH_UndeadHero copy_730
+  - first:
+      213: 6330214982510881986
+    second: GH_UndeadHero copy_731
+  - first:
+      213: 7830468732876665331
+    second: GH_UndeadHero copy_732
+  - first:
+      213: -3047815066693539827
+    second: GH_UndeadHero copy_733
+  - first:
+      213: 1118462339350043692
+    second: GH_UndeadHero copy_734
+  - first:
+      213: -7540604708642985048
+    second: GH_UndeadHero copy_735
+  - first:
+      213: -7651514535608574124
+    second: GH_UndeadHero copy_736
+  - first:
+      213: 7539520825374718760
+    second: GH_UndeadHero copy_737
+  - first:
+      213: -5721084565373174506
+    second: GH_UndeadHero copy_738
+  - first:
+      213: 5225706919849603343
+    second: GH_UndeadHero copy_739
+  - first:
+      213: 3127959621885305331
+    second: GH_UndeadHero copy_740
+  - first:
+      213: 1157824949132766967
+    second: GH_UndeadHero copy_741
+  - first:
+      213: 4164691213319615043
+    second: GH_UndeadHero copy_742
+  - first:
+      213: 3040412033999871853
+    second: GH_UndeadHero copy_743
+  - first:
+      213: -1284798066051509023
+    second: GH_UndeadHero copy_744
+  - first:
+      213: -1522693765225297182
+    second: GH_UndeadHero copy_745
+  - first:
+      213: -9202434455018521151
+    second: GH_UndeadHero copy_746
+  - first:
+      213: -7935147364864332529
+    second: GH_UndeadHero copy_747
+  - first:
+      213: 5356296081382892480
+    second: GH_UndeadHero copy_748
+  - first:
+      213: -5067743946948821914
+    second: GH_UndeadHero copy_749
+  - first:
+      213: 2212523642770652590
+    second: GH_UndeadHero copy_750
+  - first:
+      213: -6513507604198606020
+    second: GH_UndeadHero copy_751
+  - first:
+      213: 7752976186029263294
+    second: GH_UndeadHero copy_752
+  - first:
+      213: 1790866496077582448
+    second: GH_UndeadHero copy_753
+  - first:
+      213: -406972348237970246
+    second: GH_UndeadHero copy_754
+  - first:
+      213: 5450931011731057090
+    second: GH_UndeadHero copy_755
+  - first:
+      213: -9129225639164355837
+    second: GH_UndeadHero copy_756
+  - first:
+      213: 163599939624500991
+    second: GH_UndeadHero copy_757
+  - first:
+      213: 7539680571317727516
+    second: GH_UndeadHero copy_758
+  - first:
+      213: -533885947677978145
+    second: GH_UndeadHero copy_759
+  - first:
+      213: -3533456792911416104
+    second: GH_UndeadHero copy_760
+  - first:
+      213: -207999484297238502
+    second: GH_UndeadHero copy_761
+  - first:
+      213: -5765941810755852133
+    second: GH_UndeadHero copy_762
+  - first:
+      213: 4976325980540652792
+    second: GH_UndeadHero copy_763
+  - first:
+      213: 627444780100634
+    second: GH_UndeadHero copy_764
+  - first:
+      213: 2449747657087113808
+    second: GH_UndeadHero copy_765
+  - first:
+      213: -6305889678088829457
+    second: GH_UndeadHero copy_766
+  - first:
+      213: -6433047853682179104
+    second: GH_UndeadHero copy_767
+  - first:
+      213: 9176359943875616157
+    second: GH_UndeadHero copy_768
+  - first:
+      213: -2810991488633133290
+    second: GH_UndeadHero copy_769
+  - first:
+      213: 6179563874449056541
+    second: GH_UndeadHero copy_770
+  - first:
+      213: -5005265937247157993
+    second: GH_UndeadHero copy_771
+  - first:
+      213: -5807469679041321864
+    second: GH_UndeadHero copy_772
+  - first:
+      213: -7323332564938780725
+    second: GH_UndeadHero copy_773
+  - first:
+      213: -4200727261840215981
+    second: GH_UndeadHero copy_774
+  - first:
+      213: -2910211438240568859
+    second: GH_UndeadHero copy_775
+  - first:
+      213: -8554149545270860269
+    second: GH_UndeadHero copy_776
+  - first:
+      213: -1510994329264376689
+    second: GH_UndeadHero copy_777
+  - first:
+      213: 3790662762185896885
+    second: GH_UndeadHero copy_778
+  - first:
+      213: 295264346387816315
+    second: GH_UndeadHero copy_779
+  - first:
+      213: -6675127393120164255
+    second: GH_UndeadHero copy_780
+  - first:
+      213: -4366221180013245707
+    second: GH_UndeadHero copy_781
+  - first:
+      213: 1686613702656652147
+    second: GH_UndeadHero copy_782
+  - first:
+      213: 3988156709649809958
+    second: GH_UndeadHero copy_783
+  - first:
+      213: 2015522712587199356
+    second: GH_UndeadHero copy_784
+  - first:
+      213: -5764086249895510876
+    second: GH_UndeadHero copy_785
+  - first:
+      213: 897010527334815906
+    second: GH_UndeadHero copy_786
+  - first:
+      213: 2074406531343834680
+    second: GH_UndeadHero copy_787
+  - first:
+      213: 2558272203170209853
+    second: GH_UndeadHero copy_788
+  - first:
+      213: 8853949134675860913
+    second: GH_UndeadHero copy_789
+  - first:
+      213: -1732095254703442381
+    second: GH_UndeadHero copy_790
+  - first:
+      213: 4988997169151444471
+    second: GH_UndeadHero copy_791
+  - first:
+      213: -4328191918829745614
+    second: GH_UndeadHero copy_792
+  - first:
+      213: 1000106714078758407
+    second: GH_UndeadHero copy_793
+  - first:
+      213: -3540499918211142813
+    second: GH_UndeadHero copy_794
+  - first:
+      213: -6508148631631580214
+    second: GH_UndeadHero copy_795
+  - first:
+      213: -7066006880222549701
+    second: GH_UndeadHero copy_796
+  - first:
+      213: -4582611588063909210
+    second: GH_UndeadHero copy_797
+  - first:
+      213: 2520338470040190556
+    second: GH_UndeadHero copy_798
+  - first:
+      213: -653629583318428551
+    second: GH_UndeadHero copy_799
+  - first:
+      213: 4819117708253891719
+    second: GH_UndeadHero copy_800
+  - first:
+      213: 6956902250984128736
+    second: GH_UndeadHero copy_801
+  - first:
+      213: -7901227492435331929
+    second: GH_UndeadHero copy_802
+  - first:
+      213: -2969536056003102941
+    second: GH_UndeadHero copy_803
+  - first:
+      213: -5979080192619276150
+    second: GH_UndeadHero copy_804
+  - first:
+      213: -5392868276191608097
+    second: GH_UndeadHero copy_805
+  - first:
+      213: 584312877867199613
+    second: GH_UndeadHero copy_806
+  - first:
+      213: -5119044526509540288
+    second: GH_UndeadHero copy_807
+  - first:
+      213: 3083353504939677039
+    second: GH_UndeadHero copy_808
+  - first:
+      213: 804326711752880327
+    second: GH_UndeadHero copy_809
+  - first:
+      213: 6952037866921842410
+    second: GH_UndeadHero copy_810
+  - first:
+      213: 4730926578564012090
+    second: GH_UndeadHero copy_811
+  - first:
+      213: -3798955619420746365
+    second: GH_UndeadHero copy_812
+  - first:
+      213: -8459577884500383813
+    second: GH_UndeadHero copy_813
+  - first:
+      213: 355479174258904893
+    second: GH_UndeadHero copy_814
+  - first:
+      213: -3579347251802505423
+    second: GH_UndeadHero copy_815
+  - first:
+      213: 5172459636553981476
+    second: GH_UndeadHero copy_816
+  - first:
+      213: 1705144826216836334
+    second: GH_UndeadHero copy_817
+  - first:
+      213: 4521107689026343217
+    second: GH_UndeadHero copy_818
+  - first:
+      213: 2211748637035342538
+    second: GH_UndeadHero copy_819
+  - first:
+      213: -3548481438829495754
+    second: GH_UndeadHero copy_820
+  - first:
+      213: -3769924042825674286
+    second: GH_UndeadHero copy_821
+  - first:
+      213: 2341159387165116141
+    second: GH_UndeadHero copy_822
+  - first:
+      213: -7777866300400917163
+    second: GH_UndeadHero copy_823
+  - first:
+      213: 8713493608990629747
+    second: GH_UndeadHero copy_824
+  - first:
+      213: 7960278559773672195
+    second: GH_UndeadHero copy_825
+  - first:
+      213: -3347909311089267824
+    second: GH_UndeadHero copy_0
+  - first:
+      213: 1379098388605407985
+    second: GH_UndeadHero copy_1
+  - first:
+      213: 5572741288169200039
+    second: GH_UndeadHero copy_2
+  - first:
+      213: 92747022978024486
+    second: GH_UndeadHero copy_3
+  - first:
+      213: 4789215513984279085
+    second: GH_UndeadHero copy_4
+  - first:
+      213: 5814170097381069797
+    second: GH_UndeadHero copy_5
+  - first:
+      213: 318888870266309644
+    second: GH_UndeadHero copy_6
+  - first:
+      213: 6451861710974390942
+    second: GH_UndeadHero copy_7
+  - first:
+      213: -7653571064329111195
+    second: GH_UndeadHero copy_8
+  - first:
+      213: 1173869325570705844
+    second: GH_UndeadHero copy_9
+  - first:
+      213: -6045754486740532517
+    second: GH_UndeadHero copy_10
+  - first:
+      213: -5164602712347899804
+    second: GH_UndeadHero copy_11
+  - first:
+      213: -2776212321706249500
+    second: GH_UndeadHero copy_12
+  - first:
+      213: 5708666850683764583
+    second: GH_UndeadHero copy_13
+  - first:
+      213: -5256033359619238311
+    second: GH_UndeadHero copy_14
+  - first:
+      213: 2324855548806149918
+    second: GH_UndeadHero copy_15
+  - first:
+      213: -4009432582302085938
+    second: GH_UndeadHero copy_16
+  - first:
+      213: -2333496350095289689
+    second: GH_UndeadHero copy_17
+  - first:
+      213: 7990239682505780983
+    second: GH_UndeadHero copy_18
+  - first:
+      213: 2532792190857597045
+    second: GH_UndeadHero copy_19
+  - first:
+      213: -8741421165028212517
+    second: GH_UndeadHero copy_20
+  - first:
+      213: -5982914749459139205
+    second: GH_UndeadHero copy_21
+  - first:
+      213: -7924683061787914766
+    second: GH_UndeadHero copy_22
+  - first:
+      213: -725707448146007489
+    second: GH_UndeadHero copy_23
+  - first:
+      213: -3274921004478553946
+    second: GH_UndeadHero copy_24
+  - first:
+      213: -5294501419871067474
+    second: GH_UndeadHero copy_25
+  - first:
+      213: -532199407004500184
+    second: GH_UndeadHero copy_26
+  - first:
+      213: -7385533773535048571
+    second: GH_UndeadHero copy_27
+  - first:
+      213: 4757756030021216271
+    second: GH_UndeadHero copy_28
+  - first:
+      213: 6971079390577323753
+    second: GH_UndeadHero copy_29
+  - first:
+      213: 1574427045644612047
+    second: GH_UndeadHero copy_30
+  - first:
+      213: -4779229908863755969
+    second: GH_UndeadHero copy_31
+  - first:
+      213: 6155226983368782277
+    second: GH_UndeadHero copy_32
+  - first:
+      213: -4065659301907836578
+    second: GH_UndeadHero copy_33
+  - first:
+      213: 1607484878029475366
+    second: GH_UndeadHero copy_34
+  - first:
+      213: -2572009131338035049
+    second: GH_UndeadHero copy_35
+  - first:
+      213: -8514698685524377381
+    second: GH_UndeadHero copy_36
+  - first:
+      213: 7164501783985085688
+    second: GH_UndeadHero copy_37
+  - first:
+      213: 4331377418333407643
+    second: GH_UndeadHero copy_38
+  - first:
+      213: 7062020961555405504
+    second: GH_UndeadHero copy_39
+  - first:
+      213: 2960899970366165061
+    second: GH_UndeadHero copy_40
+  - first:
+      213: 8767780288776773113
+    second: GH_UndeadHero copy_41
+  - first:
+      213: 3396425690708018853
+    second: GH_UndeadHero copy_42
+  - first:
+      213: 8547556349227786815
+    second: GH_UndeadHero copy_43
+  - first:
+      213: -2507817049075176126
+    second: GH_UndeadHero copy_44
+  - first:
+      213: 3108182329494322967
+    second: GH_UndeadHero copy_45
+  - first:
+      213: -4012974822162222826
+    second: GH_UndeadHero copy_46
+  - first:
+      213: -7843369226825005112
+    second: GH_UndeadHero copy_47
+  - first:
+      213: -2037281233583462575
+    second: GH_UndeadHero copy_48
+  - first:
+      213: 4463128185522690959
+    second: GH_UndeadHero copy_49
+  - first:
+      213: 5930121221620626161
+    second: GH_UndeadHero copy_50
+  - first:
+      213: -6673585426891302952
+    second: GH_UndeadHero copy_51
+  - first:
+      213: 7958404742470679859
+    second: GH_UndeadHero copy_52
+  - first:
+      213: -2737115419727198573
+    second: GH_UndeadHero copy_53
+  - first:
+      213: 2509135354339365053
+    second: GH_UndeadHero copy_54
+  - first:
+      213: 6777571180915274034
+    second: GH_UndeadHero copy_55
+  - first:
+      213: 2281755687606782539
+    second: GH_UndeadHero copy_56
+  - first:
+      213: 7846652738408541730
+    second: GH_UndeadHero copy_57
+  - first:
+      213: -1718249544091195821
+    second: GH_UndeadHero copy_58
+  - first:
+      213: -6457676940992635815
+    second: GH_UndeadHero copy_59
+  - first:
+      213: -4561016384892335905
+    second: GH_UndeadHero copy_60
+  - first:
+      213: -8041715366180849332
+    second: GH_UndeadHero copy_61
+  - first:
+      213: -136143922481017611
+    second: GH_UndeadHero copy_62
+  - first:
+      213: -9130491165024554338
+    second: GH_UndeadHero copy_63
+  - first:
+      213: -3480698613429782529
+    second: GH_UndeadHero copy_64
+  - first:
+      213: 6017390750889514353
+    second: GH_UndeadHero copy_65
+  - first:
+      213: -5889345260790608559
+    second: GH_UndeadHero copy_66
+  - first:
+      213: 1730682313407502214
+    second: GH_UndeadHero copy_67
+  - first:
+      213: 7320540448417217042
+    second: GH_UndeadHero copy_68
+  - first:
+      213: 8095878024036733008
+    second: GH_UndeadHero copy_69
+  - first:
+      213: 2650898724209997362
+    second: GH_UndeadHero copy_70
+  - first:
+      213: 8798222962516272391
+    second: GH_UndeadHero copy_71
+  - first:
+      213: -966313778825795213
+    second: GH_UndeadHero copy_72
+  - first:
+      213: 3527170192857723065
+    second: GH_UndeadHero copy_73
+  - first:
+      213: 3032111654614168384
+    second: GH_UndeadHero copy_74
+  - first:
+      213: 8367531656344431034
+    second: GH_UndeadHero copy_75
+  - first:
+      213: -6529450382543274834
+    second: GH_UndeadHero copy_76
+  - first:
+      213: -4849482644812299340
+    second: GH_UndeadHero copy_77
+  - first:
+      213: 4656941914860879842
+    second: GH_UndeadHero copy_78
+  - first:
+      213: -6341241145733915893
+    second: GH_UndeadHero copy_79
+  - first:
+      213: 4631478607065292666
+    second: GH_UndeadHero copy_80
+  - first:
+      213: 6353792235043096603
+    second: GH_UndeadHero copy_81
+  - first:
+      213: 1164989375011047938
+    second: GH_UndeadHero copy_82
+  - first:
+      213: 7531424929991013226
+    second: GH_UndeadHero copy_83
+  - first:
+      213: 1483580460445518751
+    second: GH_UndeadHero copy_84
+  - first:
+      213: 915145834227858025
+    second: GH_UndeadHero copy_85
+  - first:
+      213: 4096163806958704431
+    second: GH_UndeadHero copy_86
+  - first:
+      213: 2589656743747484045
+    second: GH_UndeadHero copy_87
+  - first:
+      213: 99593981565602327
+    second: GH_UndeadHero copy_88
+  - first:
+      213: 7991136058726817554
+    second: GH_UndeadHero copy_89
+  - first:
+      213: -3662104538384559966
+    second: GH_UndeadHero copy_90
+  - first:
+      213: -7138204663114488383
+    second: GH_UndeadHero copy_91
+  - first:
+      213: -8420497607415909728
+    second: GH_UndeadHero copy_92
+  - first:
+      213: 4445582093923938108
+    second: GH_UndeadHero copy_93
+  - first:
+      213: -268337254344161014
+    second: GH_UndeadHero copy_94
+  - first:
+      213: -2462591526117459803
+    second: GH_UndeadHero copy_95
+  - first:
+      213: -1791134008228069449
+    second: GH_UndeadHero copy_96
+  - first:
+      213: -8830612415850214722
+    second: GH_UndeadHero copy_97
+  - first:
+      213: 4896842056285871009
+    second: GH_UndeadHero copy_98
+  - first:
+      213: -5180788092801627044
+    second: GH_UndeadHero copy_99
+  - first:
+      213: -5189636538574014276
+    second: GH_UndeadHero copy_100
+  - first:
+      213: 9192332299008318079
+    second: GH_UndeadHero copy_101
+  - first:
+      213: -1098402802149579843
+    second: GH_UndeadHero copy_102
+  - first:
+      213: -253805621593420009
+    second: GH_UndeadHero copy_103
+  - first:
+      213: 7507296322771108770
+    second: GH_UndeadHero copy_104
+  - first:
+      213: -4575839120776358459
+    second: GH_UndeadHero copy_105
+  - first:
+      213: 2053056303745079217
+    second: GH_UndeadHero copy_106
+  - first:
+      213: -6328753818969936402
+    second: GH_UndeadHero copy_107
+  - first:
+      213: -4404679178507263709
+    second: GH_UndeadHero copy_108
+  - first:
+      213: -161451550831772682
+    second: GH_UndeadHero copy_109
+  - first:
+      213: -1441340556003149619
+    second: GH_UndeadHero copy_110
+  - first:
+      213: -3039598388979457567
+    second: GH_UndeadHero copy_111
+  - first:
+      213: 2060810309341315422
+    second: GH_UndeadHero copy_112
+  - first:
+      213: 4998384929751309545
+    second: GH_UndeadHero copy_113
+  - first:
+      213: 3879014202234643102
+    second: GH_UndeadHero copy_114
+  - first:
+      213: 8422790800472173065
+    second: GH_UndeadHero copy_115
+  - first:
+      213: 5899186106772391346
+    second: GH_UndeadHero copy_116
+  - first:
+      213: 7431078250315403461
+    second: GH_UndeadHero copy_117
+  - first:
+      213: -5666783195099024451
+    second: GH_UndeadHero copy_118
+  - first:
+      213: 4299112340240353355
+    second: GH_UndeadHero copy_119
+  - first:
+      213: 811344369469440663
+    second: GH_UndeadHero copy_120
+  - first:
+      213: -7056727798526520704
+    second: GH_UndeadHero copy_121
+  - first:
+      213: 5303052354165496609
+    second: GH_UndeadHero copy_122
+  - first:
+      213: 6566919547429078494
+    second: GH_UndeadHero copy_123
+  - first:
+      213: 4107661878937215061
+    second: GH_UndeadHero copy_124
+  - first:
+      213: -5195043652865975371
+    second: GH_UndeadHero copy_125
+  - first:
+      213: -5414337947640314907
+    second: GH_UndeadHero copy_126
+  - first:
+      213: 2705162307331110477
+    second: GH_UndeadHero copy_127
+  - first:
+      213: 8125732980431769504
+    second: GH_UndeadHero copy_128
+  - first:
+      213: -7733128733355246372
+    second: GH_UndeadHero copy_129
+  - first:
+      213: -8983187189034672929
+    second: GH_UndeadHero copy_130
+  - first:
+      213: -5822488450184749436
+    second: GH_UndeadHero copy_131
+  - first:
+      213: -2372530599966411953
+    second: GH_UndeadHero copy_132
+  - first:
+      213: -71313776674072562
+    second: GH_UndeadHero copy_133
+  - first:
+      213: -8360591124172342310
+    second: GH_UndeadHero copy_134
+  - first:
+      213: -7993506761720556602
+    second: GH_UndeadHero copy_135
+  - first:
+      213: -1304466635440590536
+    second: GH_UndeadHero copy_136
+  - first:
+      213: -7862480266389857061
+    second: GH_UndeadHero copy_137
+  - first:
+      213: 2482285015294790901
+    second: GH_UndeadHero copy_138
+  - first:
+      213: 4679456987218594475
+    second: GH_UndeadHero copy_139
+  - first:
+      213: -7959343649206970467
+    second: GH_UndeadHero copy_140
+  - first:
+      213: 4743030666894696709
+    second: GH_UndeadHero copy_141
+  - first:
+      213: -500948165216344440
+    second: GH_UndeadHero copy_142
+  - first:
+      213: 2029611911801592122
+    second: GH_UndeadHero copy_143
+  - first:
+      213: 6690345032134359630
+    second: GH_UndeadHero copy_144
+  - first:
+      213: -1405777061609641107
+    second: GH_UndeadHero copy_145
+  - first:
+      213: 413611968654765786
+    second: GH_UndeadHero copy_146
+  - first:
+      213: 3631597183016366566
+    second: GH_UndeadHero copy_147
+  - first:
+      213: 58761855260284750
+    second: GH_UndeadHero copy_148
+  - first:
+      213: -5460156164500909232
+    second: GH_UndeadHero copy_149
+  - first:
+      213: 6380603696005884806
+    second: GH_UndeadHero copy_150
+  - first:
+      213: -4392725678512962192
+    second: GH_UndeadHero copy_151
+  - first:
+      213: 5978292936553796511
+    second: GH_UndeadHero copy_152
+  - first:
+      213: 5571402076907941641
+    second: GH_UndeadHero copy_153
+  - first:
+      213: -3279976022861262111
+    second: GH_UndeadHero copy_154
+  - first:
+      213: 190993149418370979
+    second: GH_UndeadHero copy_155
+  - first:
+      213: -413164174826134737
+    second: GH_UndeadHero copy_156
+  - first:
+      213: -4487224831407587443
+    second: GH_UndeadHero copy_157
+  - first:
+      213: -5701778843494071604
+    second: GH_UndeadHero copy_158
+  - first:
+      213: -8941605213102783173
+    second: GH_UndeadHero copy_159
+  - first:
+      213: -6109222403381786744
+    second: GH_UndeadHero copy_160
+  - first:
+      213: -8916855777291711344
+    second: GH_UndeadHero copy_161
+  - first:
+      213: 5282672666346002856
+    second: GH_UndeadHero copy_162
+  - first:
+      213: 2017103452957680163
+    second: GH_UndeadHero copy_163
+  - first:
+      213: -3666634505202531004
+    second: GH_UndeadHero copy_164
+  - first:
+      213: -8680029524755602489
+    second: GH_UndeadHero copy_165
+  - first:
+      213: 6425759000179609908
+    second: GH_UndeadHero copy_166
+  - first:
+      213: 7343739098945190865
+    second: GH_UndeadHero copy_167
+  - first:
+      213: 1670561145892670361
+    second: GH_UndeadHero copy_168
+  - first:
+      213: 6013993093965248856
+    second: GH_UndeadHero copy_169
+  - first:
+      213: -3484189621910390839
+    second: GH_UndeadHero copy_170
+  - first:
+      213: 6958169381009079067
+    second: GH_UndeadHero copy_171
+  - first:
+      213: 976464290071742771
+    second: GH_UndeadHero copy_172
+  - first:
+      213: 6799312943690262038
+    second: GH_UndeadHero copy_173
+  - first:
+      213: -8793811522464511435
+    second: GH_UndeadHero copy_174
+  - first:
+      213: 4646143248164552994
+    second: GH_UndeadHero copy_175
+  - first:
+      213: -3607060536750947398
+    second: GH_UndeadHero copy_176
+  - first:
+      213: 92264193170361803
+    second: GH_UndeadHero copy_177
+  - first:
+      213: 2006642292169023233
+    second: GH_UndeadHero copy_178
+  - first:
+      213: -8795407186476926438
+    second: GH_UndeadHero copy_179
+  - first:
+      213: -6662412590370769759
+    second: GH_UndeadHero copy_180
+  - first:
+      213: -5041826107178607003
+    second: GH_UndeadHero copy_181
+  - first:
+      213: -3830484858691489651
+    second: GH_UndeadHero copy_182
+  - first:
+      213: -4106863805842401310
+    second: GH_UndeadHero copy_183
+  - first:
+      213: 1932539577524233263
+    second: GH_UndeadHero copy_184
+  - first:
+      213: 1490190428405701942
+    second: GH_UndeadHero copy_185
+  - first:
+      213: 2081580984163352261
+    second: GH_UndeadHero copy_186
+  - first:
+      213: -8345639721676728874
+    second: GH_UndeadHero copy_187
+  - first:
+      213: 3201249880837565411
+    second: GH_UndeadHero copy_188
+  - first:
+      213: -5450128463959942317
+    second: GH_UndeadHero copy_189
+  - first:
+      213: 9091224654297785899
+    second: GH_UndeadHero copy_190
+  - first:
+      213: -6241735575211883381
+    second: GH_UndeadHero copy_191
+  - first:
+      213: -7680312204856851971
+    second: GH_UndeadHero copy_192
+  - first:
+      213: -1808468046520449716
+    second: GH_UndeadHero copy_193
+  - first:
+      213: -4275009730902238823
+    second: GH_UndeadHero copy_194
+  - first:
+      213: -1089650075113472588
+    second: GH_UndeadHero copy_195
+  - first:
+      213: 4393505315390610738
+    second: GH_UndeadHero copy_196
+  - first:
+      213: 4623431805688847636
+    second: GH_UndeadHero copy_197
+  - first:
+      213: 1488226440539787527
+    second: GH_UndeadHero copy_198
+  - first:
+      213: -6320294194647454882
+    second: GH_UndeadHero copy_199
+  - first:
+      213: 8349869019328048401
+    second: GH_UndeadHero copy_200
+  - first:
+      213: -5045288245398350810
+    second: GH_UndeadHero copy_201
+  - first:
+      213: 7679669107055553122
+    second: GH_UndeadHero copy_202
+  - first:
+      213: 6609967828520617764
+    second: GH_UndeadHero copy_203
+  - first:
+      213: -2603381419207550813
+    second: GH_UndeadHero copy_204
+  - first:
+      213: -4708010411264997804
+    second: GH_UndeadHero copy_205
+  - first:
+      213: -5619819237694615096
+    second: GH_UndeadHero copy_206
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2776
+        width: 29
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2d443836d981d0800000000000000
+      internalID: -3347909311089267824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2776
+        width: 33
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2932b7daa832310800000000000000
+      internalID: 1379098388605407985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2776
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95a7a0daa565d40800000000000000
+      internalID: 5572741288169200039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2776
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624849e0de0894100800000000000000
+      internalID: 92747022978024486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2776
+        width: 37
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a2d7b226b67240800000000000000
+      internalID: 4789215513984279085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2754
+        width: 158
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d81616e410b050800000000000000
+      internalID: 5814170097381069797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2661
+        width: 79
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8c0becbbec6400800000000000000
+      internalID: 318888870266309644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2661
+        width: 78
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92929eea0e998950800000000000000
+      internalID: 6451861710974390942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2661
+        width: 78
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697477daad09c590800000000000000
+      internalID: -7653571064329111195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2660
+        width: 77
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b98e53aeeb6a4010800000000000000
+      internalID: 1173869325570705844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2660
+        width: 78
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd24b9a735a291ca0800000000000000
+      internalID: -6045754486740532517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2660
+        width: 93
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680c744235a358b0800000000000000
+      internalID: -5164602712347899804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2660
+        width: 88
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f2a73a99e879d0800000000000000
+      internalID: -2776212321706249500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_13
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2660
+        width: 68
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbd004142493f40800000000000000
+      internalID: 5708666850683764583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_14
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2660
+        width: 60
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956da40d181de07b0800000000000000
+      internalID: -5256033359619238311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_15
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2660
+        width: 63
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17bfa4ddcb834020800000000000000
+      internalID: 2324855548806149918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_16
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2661
+        width: 60
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccc10d2f42ab58c0800000000000000
+      internalID: -4009432582302085938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2661
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a256e7de61cd9fd0800000000000000
+      internalID: -2333496350095289689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2629
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feacf938a803ee60800000000000000
+      internalID: 7990239682505780983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_19
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2634
+        width: 65
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57053f90419462320800000000000000
+      internalID: 2532792190857597045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_20
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2515
+        width: 101
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd08962b3cb30b680800000000000000
+      internalID: -8741421165028212517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_21
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2515
+        width: 94
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fa05fbba68fca0800000000000000
+      internalID: -5982914749459139205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_22
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2515
+        width: 104
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8398fdbed50290800000000000000
+      internalID: -7924683061787914766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2519
+        width: 86
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ae66ebbe4cde5f0800000000000000
+      internalID: -725707448146007489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2519
+        width: 94
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0279c92b42d82d0800000000000000
+      internalID: -3274921004478553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2519
+        width: 79
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a8c592072686b0800000000000000
+      internalID: -5294501419871067474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_26
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2515
+        width: 66
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb2d3857f3d98f0800000000000000
+      internalID: -532199407004500184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_27
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2624
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0bc7c920518990800000000000000
+      internalID: -7385533773535048571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2519
+        width: 109
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082361d6e1f60240800000000000000
+      internalID: 4757756030021216271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2519
+        width: 123
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee686875cf3eb060800000000000000
+      internalID: 6971079390577323753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2519
+        width: 107
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13a6c6e0d79d510800000000000000
+      internalID: 1574427045644612047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_31
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2521
+        width: 97
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39d04628b3ccadb0800000000000000
+      internalID: -4779229908863755969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_32
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2515
+        width: 89
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1789f5452cb6550800000000000000
+      internalID: 6155226983368782277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2485
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51550cd760e397c0800000000000000
+      internalID: -4065659301907836578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2370
+        width: 104
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e42c0dafeee4610800000000000000
+      internalID: 1607484878029475366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2370
+        width: 115
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790198772536e4cd0800000000000000
+      internalID: -2572009131338035049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2370
+        width: 111
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd085d788a6b5d980800000000000000
+      internalID: -8514698685524377381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2370
+        width: 85
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5513d96c6d6360800000000000000
+      internalID: 7164501783985085688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2370
+        width: 77
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9949e730d42c1c30800000000000000
+      internalID: 4331377418333407643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_39
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2370
+        width: 166
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5fd9f5a6510260800000000000000
+      internalID: 7062020961555405504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_40
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2370
+        width: 166
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540d325e5da371920800000000000000
+      internalID: 2960899970366165061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2370
+        width: 166
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd163d08b96da970800000000000000
+      internalID: 8767780288776773113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_42
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2370
+        width: 114
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a689a0bb27822f20800000000000000
+      internalID: 3396425690708018853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2342
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326b5576350f9670800000000000000
+      internalID: 8547556349227786815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2214
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da43c4ea1723dd0800000000000000
+      internalID: -2507817049075176126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2215
+        width: 80
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb7ae5c5b722b20800000000000000
+      internalID: 3108182329494322967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2215
+        width: 121
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113f6039ac0f48c0800000000000000
+      internalID: -4012974822162222826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2215
+        width: 121
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78dd08e31c62390800000000000000
+      internalID: -7843369226825005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_48
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2215
+        width: 121
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15720b4138f1ab3e0800000000000000
+      internalID: -2037281233583462575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_49
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2216
+        width: 122
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1d15207730fd30800000000000000
+      internalID: 4463128185522690959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_50
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2216
+        width: 117
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f3b9f4d50c4250800000000000000
+      internalID: 5930121221620626161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_51
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2216
+        width: 77
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79be39969a263a0800000000000000
+      internalID: -6673585426891302952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_52
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2214
+        width: 109
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dbfb5a2fee17e60800000000000000
+      internalID: 7958404742470679859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_53
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2214
+        width: 105
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3968ae11700d30ad0800000000000000
+      internalID: -2737115419727198573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_54
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2214
+        width: 77
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db095c09f4d32d220800000000000000
+      internalID: 2509135354339365053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2080
+        width: 96
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23131667415ce0e50800000000000000
+      internalID: 6777571180915274034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2079
+        width: 109
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a870865bc6aaf10800000000000000
+      internalID: 2281755687606782539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2079
+        width: 103
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eefac9719e4ec60800000000000000
+      internalID: 7846652738408541730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2079
+        width: 103
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a7f0b42d8728e0800000000000000
+      internalID: -1718249544091195821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2079
+        width: 113
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c17e15909b166a0800000000000000
+      internalID: -6457676940992635815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_60
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2081
+        width: 113
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd881c363c304b0c0800000000000000
+      internalID: -4561016384892335905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_61
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2081
+        width: 113
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c497df53b76166090800000000000000
+      internalID: -8041715366180849332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2080
+        width: 107
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc036e2d15c1ef0800000000000000
+      internalID: -136143922481017611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_63
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2080
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927edb29aaf94180800000000000000
+      internalID: -9130491165024554338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2049
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b2587d0312bfc0800000000000000
+      internalID: -3480698613429782529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1926
+        width: 94
+        height: 119
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1759d75a101128350800000000000000
+      internalID: 6017390750889514353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1926
+        width: 112
+        height: 115
+      alignment: 9
+      pivot: {x: 0.31, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d02fa30b7d44ea0800000000000000
+      internalID: -5889345260790608559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1926
+        width: 86
+        height: 115
+      alignment: 9
+      pivot: {x: 0.09, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68794bdf46e940810800000000000000
+      internalID: 1730682313407502214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_68
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1926
+        width: 173
+        height: 117
+      alignment: 9
+      pivot: {x: 0.03, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a79cf70c8c79560800000000000000
+      internalID: 7320540448417217042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1926
+        width: 173
+        height: 101
+      alignment: 9
+      pivot: {x: 0.043541703, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d9974b265a5070800000000000000
+      internalID: 8095878024036733008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1922
+        width: 178
+        height: 60
+      alignment: 9
+      pivot: {x: 0.038617767, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b2183852e9c420800000000000000
+      internalID: 2650898724209997362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_71
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1925
+        width: 178
+        height: 56
+      alignment: 9
+      pivot: {x: 0.029445348, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705a77f5b21991a70800000000000000
+      internalID: 8798222962516272391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_72
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1926
+        width: 159
+        height: 69
+      alignment: 9
+      pivot: {x: 0.041609086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e587ecb6f692f0800000000000000
+      internalID: -966313778825795213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_73
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1926
+        width: 111
+        height: 90
+      alignment: 9
+      pivot: {x: 0.1969258, y: 0.0036661783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b071a74a9603f030800000000000000
+      internalID: 3527170192857723065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1876
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043799c2c79341a20800000000000000
+      internalID: 3032111654614168384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1876
+        width: 63
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ee3755b17f1470800000000000000
+      internalID: 8367531656344431034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1876
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac38f9b87bb265a0800000000000000
+      internalID: -6529450382543274834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_77
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1876
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38a8b6a3d23bcb0800000000000000
+      internalID: -4849482644812299340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1758
+        width: 71
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff8ee7ff7c0a040800000000000000
+      internalID: 4656941914860879842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1758
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b507976c26ff7a0800000000000000
+      internalID: -6341241145733915893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1758
+        width: 89
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f92f62141564040800000000000000
+      internalID: 4631478607065292666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1758
+        width: 106
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18016abf543d2850800000000000000
+      internalID: 6353792235043096603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_82
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1758
+        width: 73
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a43a80aafda2010800000000000000
+      internalID: 1164989375011047938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1758
+        width: 124
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b2a4121ff48860800000000000000
+      internalID: 7531424929991013226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_84
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1758
+        width: 184
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc094819cb69410800000000000000
+      internalID: 1483580460445518751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_85
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1758
+        width: 177
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a74de994043bc00800000000000000
+      internalID: 915145834227858025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_86
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1757
+        width: 111
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d59fa74f78d830800000000000000
+      internalID: 4096163806958704431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1730
+        width: 63
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89734d761f40f320800000000000000
+      internalID: 2589656743747484045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1547
+        width: 73
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0cf4d234d16100800000000000000
+      internalID: 99593981565602327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_89
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1547
+        width: 124
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1a3418e736ee60800000000000000
+      internalID: 7991136058726817554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1547
+        width: 168
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01e3333579d2dc0800000000000000
+      internalID: -3662104538384559966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_91
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1547
+        width: 169
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c52601cda000fc90800000000000000
+      internalID: -7138204663114488383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_92
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1547
+        width: 169
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b2fd2a02642b80800000000000000
+      internalID: -8420497607415909728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_93
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1547
+        width: 176
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6c285c51e1bd30800000000000000
+      internalID: 4445582093923938108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_94
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1547
+        width: 159
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0900da50bca64cf0800000000000000
+      internalID: -268337254344161014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_95
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1546
+        width: 89
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b1eaed0e13ddd0800000000000000
+      internalID: -2462591526117459803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_96
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1546
+        width: 62
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb17efb1d9427e0800000000000000
+      internalID: -1791134008228069449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1511
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba081c5bcc537580800000000000000
+      internalID: -8830612415850214722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1511
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abdc16d7e315f340800000000000000
+      internalID: 4896842056285871009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1408
+        width: 73
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4cf7bda42a18b0800000000000000
+      internalID: -5180788092801627044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1408
+        width: 184
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb878e46015baf7b0800000000000000
+      internalID: -5189636538574014276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_101
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1408
+        width: 106
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a9dbbd589b19f70800000000000000
+      internalID: 9192332299008318079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_102
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1446
+        width: 98
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3a4959870b1c0f0800000000000000
+      internalID: -1098402802149579843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_103
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1408
+        width: 106
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4de2c12d4a7cf0800000000000000
+      internalID: -253805621593420009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_104
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1472
+        width: 108
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34e5eea364f2860800000000000000
+      internalID: 7507296322771108770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_105
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1408
+        width: 106
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c51ac0409a5f70c0800000000000000
+      internalID: -4575839120776358459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_106
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1408
+        width: 124
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b71a98a4dbed7c10800000000000000
+      internalID: 2053056303745079217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1371
+        width: 37
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed666dceefbb28a0800000000000000
+      internalID: -6328753818969936402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_108
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1368
+        width: 37
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e387cf9f6fd2c0800000000000000
+      internalID: -4404679178507263709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_109
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1369
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7c308ba862cdf0800000000000000
+      internalID: -161451550831772682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1241
+        width: 99
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8711f96645ffbe0800000000000000
+      internalID: -1441340556003149619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_111
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1270
+        width: 99
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a705ae5d21d5d0800000000000000
+      internalID: -3039598388979457567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_112
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1241
+        width: 101
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5180c5ce08799c10800000000000000
+      internalID: 2060810309341315422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_113
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1239
+        width: 72
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1e7c6c94dd5540800000000000000
+      internalID: 4998384929751309545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_114
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1256
+        width: 50
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9224e27dd605d530800000000000000
+      internalID: 3879014202234643102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_115
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1301
+        width: 106
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a629f6b93c3e470800000000000000
+      internalID: 8422790800472173065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_116
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1262
+        width: 50
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58616428e1ed150800000000000000
+      internalID: 5899186106772391346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_117
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1309
+        width: 106
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05e201c4e702760800000000000000
+      internalID: 7431078250315403461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_118
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1256
+        width: 97
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db338fc35ba8b51b0800000000000000
+      internalID: -5666783195099024451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_119
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1225
+        width: 89
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48468155e389ab30800000000000000
+      internalID: 4299112340240353355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_120
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1225
+        width: 89
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924db4c769724b00800000000000000
+      internalID: 811344369469440663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1198
+        width: 51
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d3349477711e90800000000000000
+      internalID: -7056727798526520704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_122
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1069
+        width: 60
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5553f40a389940800000000000000
+      internalID: 5303052354165496609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_123
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1069
+        width: 86
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5441d0982622b50800000000000000
+      internalID: 6566919547429078494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1069
+        width: 68
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550677f27b8510930800000000000000
+      internalID: 4107661878937215061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_125
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1069
+        width: 92
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb964e725f77e7b0800000000000000
+      internalID: -5195043652865975371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1051
+        width: 51
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34bf0b2586cd4b0800000000000000
+      internalID: -5414337947640314907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 932
+        width: 73
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463f3439caaa8520800000000000000
+      internalID: 2705162307331110477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 932
+        width: 101
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afcf4ef71764c070800000000000000
+      internalID: 8125732980431769504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 932
+        width: 94
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7efd83686ea490800000000000000
+      internalID: -7733128733355246372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_130
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 932
+        width: 148
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9fb6b8de455380800000000000000
+      internalID: -8983187189034672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_131
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 932
+        width: 149
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e5ce97a9d523fa0800000000000000
+      internalID: -5822488450184749436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_132
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 932
+        width: 148
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f1425df3131fd0800000000000000
+      internalID: -2372530599966411953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_133
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 932
+        width: 148
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0810c97f74a20ff0800000000000000
+      internalID: -71313776674072562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_134
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 932
+        width: 94
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb7c6b3ba639fb80800000000000000
+      internalID: -8360591124172342310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_135
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 930
+        width: 93
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c396fd93fb511190800000000000000
+      internalID: -7993506761720556602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_136
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 908
+        width: 37
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f635a18a95ede0800000000000000
+      internalID: -1304466635440590536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 908
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc505cdadbd2e290800000000000000
+      internalID: -7862480266389857061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_138
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 789
+        width: 73
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fccbe7d119d27220800000000000000
+      internalID: 2482285015294790901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 789
+        width: 101
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa42e84655c0f040800000000000000
+      internalID: 4679456987218594475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_140
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 789
+        width: 94
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d1c71f1bba8190800000000000000
+      internalID: -7959343649206970467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_141
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 789
+        width: 148
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ea0b0341a2d140800000000000000
+      internalID: 4743030666894696709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_142
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 789
+        width: 149
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88665614c464c09f0800000000000000
+      internalID: -500948165216344440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_143
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 789
+        width: 165
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d5dac741aa2c10800000000000000
+      internalID: 2029611911801592122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_144
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 789
+        width: 152
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4afa291c51e8dc50800000000000000
+      internalID: 6690345032134359630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_145
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 789
+        width: 119
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b6d59e53dad7ce0800000000000000
+      internalID: -1405777061609641107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_146
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 789
+        width: 148
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6482e4e17db500800000000000000
+      internalID: 413611968654765786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_147
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 763
+        width: 33
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1fffc9566066230800000000000000
+      internalID: 3631597183016366566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_148
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 763
+        width: 57
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d1259893c0d000800000000000000
+      internalID: 58761855260284750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 763
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05393c4c5e0a934b0800000000000000
+      internalID: -5460156164500909232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 600
+        width: 93
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba9f071457c8850800000000000000
+      internalID: 6380603696005884806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_151
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 600
+        width: 71
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758f70e447e903c0800000000000000
+      internalID: -4392725678512962192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_152
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 600
+        width: 140
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93148e50c927f250800000000000000
+      internalID: 5978292936553796511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_153
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 142
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa8fe9ba8915d40800000000000000
+      internalID: 5571402076907941641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_154
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 600
+        width: 158
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25e8d6f2f2b72d0800000000000000
+      internalID: -3279976022861262111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_155
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 600
+        width: 111
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77d99e14b86a200800000000000000
+      internalID: 190993149418370979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 579
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23229d3f55244af0800000000000000
+      internalID: -413164174826134737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_157
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 579
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f73a84acc2ab1c0800000000000000
+      internalID: -4487224831407587443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 471
+        width: 128
+        height: 100
+      alignment: 9
+      pivot: {x: 0.59861773, y: 0.0000009155273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c2b5e9563fd0b0800000000000000
+      internalID: -5701778843494071604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_159
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 471
+        width: 104
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5404584, y: 0.0000009155273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b354a3fee6909e380800000000000000
+      internalID: -8941605213102783173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_160
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 500
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870298979ea73ba0800000000000000
+      internalID: -6109222403381786744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_161
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 506
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c43210ae6f04480800000000000000
+      internalID: -8916855777291711344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_162
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 471
+        width: 92
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9183e1dc2df4940800000000000000
+      internalID: 5282672666346002856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_163
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 471
+        width: 85
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a1c447e03efb10800000000000000
+      internalID: 2017103452957680163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_164
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 471
+        width: 109
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43566224, y: 0.00000088031476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445863c185f7d1dc0800000000000000
+      internalID: -3666634505202531004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_165
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 471
+        width: 109
+        height: 104
+      alignment: 9
+      pivot: {x: 0.39705944, y: 0.00000088031476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32a01d2275a8780800000000000000
+      internalID: -8680029524755602489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_166
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 471
+        width: 102
+        height: 85
+      alignment: 9
+      pivot: {x: 0.37624463, y: 0.000001077091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43199f9f3c1ec2950800000000000000
+      internalID: 6425759000179609908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_167
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 472
+        width: 78
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db76cb3dc33ae560800000000000000
+      internalID: 7343739098945190865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 448
+        width: 45
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b808cd2860f2710800000000000000
+      internalID: 1670561145892670361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_169
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 448
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859737ffadef57350800000000000000
+      internalID: 6013993093965248856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_170
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 448
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bde7bffba5afc0800000000000000
+      internalID: -3484189621910390839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_171
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 314
+        width: 72
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bbb02af22609060800000000000000
+      internalID: 6958169381009079067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_172
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 314
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339849929191d8d00800000000000000
+      internalID: 976464290071742771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_173
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 331
+        width: 50
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616af5519130c5e50800000000000000
+      internalID: 6799312943690262038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_174
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 376
+        width: 106
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a04cd030b16f580800000000000000
+      internalID: -8793811522464511435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_175
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 337
+        width: 50
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218d6afaaa6a7040800000000000000
+      internalID: 4646143248164552994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_176
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 106
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab341a78d8521fdc0800000000000000
+      internalID: -3607060536750947398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_177
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 331
+        width: 97
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd486b7bc9c74100800000000000000
+      internalID: 92264193170361803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_178
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 286
+        width: 61
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9208788609db10800000000000000
+      internalID: 2006642292169023233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 286
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aff1393cf60f580800000000000000
+      internalID: -8795407186476926438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_180
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 152
+        width: 126
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3024522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43cdb4c0b5a83a0800000000000000
+      internalID: -6662412590370769759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_181
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 286
+        width: 53
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e14564ed5d70ab0800000000000000
+      internalID: -5041826107178607003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_182
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 152
+        width: 94
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807e28d05267dac0800000000000000
+      internalID: -3830484858691489651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_183
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 152
+        width: 94
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7dadfa02d7107c0800000000000000
+      internalID: -4106863805842401310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_184
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 206
+        width: 25
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2427b8b182c1da10800000000000000
+      internalID: 1932539577524233263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 70
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1fcc9c483ea410800000000000000
+      internalID: 1490190428405701942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 152
+        width: 67
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb34c50e243ec10800000000000000
+      internalID: 2081580984163352261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_187
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 152
+        width: 94
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59116e3e45e2c80800000000000000
+      internalID: -8345639721676728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_188
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 152
+        width: 94
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba5904ecf1d6c20800000000000000
+      internalID: 3201249880837565411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_189
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 152
+        width: 79
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b1c6db9014d54b0800000000000000
+      internalID: -5450128463959942317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_190
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 152
+        width: 89
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2661bcd7a48a2e70800000000000000
+      internalID: 9091224654297785899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_191
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 152
+        width: 96
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c3918096e069a0800000000000000
+      internalID: -6241735575211883381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_192
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 152
+        width: 96
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df10961edbc0a6590800000000000000
+      internalID: -7680312204856851971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450183b4e707e6e0800000000000000
+      internalID: -1808468046520449716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_194
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 19
+        width: 83
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999db3abc4d1ca4c0800000000000000
+      internalID: -4275009730902238823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_195
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 98
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3267a709c0e0f0800000000000000
+      internalID: -1089650075113472588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_196
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd5aa7ecdd8fc30800000000000000
+      internalID: 4393505315390610738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_197
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 19
+        width: 81
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d93553bbab92040800000000000000
+      internalID: 4623431805688847636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_198
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 18
+        width: 91
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701d7bd001e37a410800000000000000
+      internalID: 1488226440539787527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_199
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 19
+        width: 97
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b23149aedc948a0800000000000000
+      internalID: -6320294194647454882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_200
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 19
+        width: 114
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d661232a1b0e370800000000000000
+      internalID: 8349869019328048401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_201
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 19
+        width: 94
+        height: 89
+      alignment: 9
+      pivot: {x: 0.6803991, y: -0.03464208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624d39762198bf9b0800000000000000
+      internalID: -5045288245398350810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_202
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 23
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.7620703, y: -0.06606764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a669e3d5aa39a60800000000000000
+      internalID: 7679669107055553122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_203
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 21
+        width: 106
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6890633, y: -0.032799173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274bbb08b25bbb50800000000000000
+      internalID: 6609967828520617764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_204
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 22
+        width: 105
+        height: 48
+      alignment: 9
+      pivot: {x: 0.73490864, y: -0.06423227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8184d746eeedbd0800000000000000
+      internalID: -2603381419207550813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_205
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 19
+        width: 90
+        height: 74
+      alignment: 9
+      pivot: {x: 0.55138755, y: 0.00000038662472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45685bd9979c9aeb0800000000000000
+      internalID: -4708010411264997804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_UndeadHero copy_206
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 19
+        width: 123
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15e4bad246202b0800000000000000
+      internalID: -5619819237694615096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

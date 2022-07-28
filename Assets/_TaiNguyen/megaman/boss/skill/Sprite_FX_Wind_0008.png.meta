@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 3768286f6304da8409fd88fd34d16a1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3469308109633795952
+    second: Sprite_FX_Wind_0008_0
+  - first:
+      213: -7603240500581332054
+    second: Sprite_FX_Wind_0008_1
+  - first:
+      213: 9010401282790703690
+    second: Sprite_FX_Wind_0008_2
+  - first:
+      213: 5864530068411095129
+    second: Sprite_FX_Wind_0008_3
+  - first:
+      213: -7251173589581292534
+    second: Sprite_FX_Wind_0008_4
+  - first:
+      213: 3666994295960483896
+    second: Sprite_FX_Wind_0008_5
+  - first:
+      213: -3226078954963561725
+    second: Sprite_FX_Wind_0008_6
+  - first:
+      213: -5354657478129101912
+    second: Sprite_FX_Wind_0008_7
+  - first:
+      213: 2644391178302408857
+    second: Sprite_FX_Wind_0008_8
+  - first:
+      213: 8632383761675188795
+    second: Sprite_FX_Wind_0008_9
+  - first:
+      213: -1293445434977127198
+    second: Sprite_FX_Wind_0008_10
+  - first:
+      213: 4819236602680548113
+    second: Sprite_FX_Wind_0008_11
+  - first:
+      213: 139986240565118180
+    second: Sprite_FX_Wind_0008_12
+  - first:
+      213: -8788077285930524120
+    second: Sprite_FX_Wind_0008_13
+  - first:
+      213: -1679658941836529165
+    second: Sprite_FX_Wind_0008_14
+  - first:
+      213: -1793023307626858038
+    second: Sprite_FX_Wind_0008_15
+  - first:
+      213: -7515802474011099855
+    second: Sprite_FX_Wind_0008_16
+  - first:
+      213: -5926446253320000567
+    second: Sprite_FX_Wind_0008_17
+  - first:
+      213: -122894135189937884
+    second: Sprite_FX_Wind_0008_18
+  - first:
+      213: 2949997362038859827
+    second: Sprite_FX_Wind_0008_19
+  - first:
+      213: -6497909273629891278
+    second: Sprite_FX_Wind_0008_20
+  - first:
+      213: 7614385333395163907
+    second: Sprite_FX_Wind_0008_21
+  - first:
+      213: 8374776643491280663
+    second: Sprite_FX_Wind_0008_22
+  - first:
+      213: -7622058101736234659
+    second: Sprite_FX_Wind_0008_23
+  - first:
+      213: -459161380453855034
+    second: Sprite_FX_Wind_0008_24
+  - first:
+      213: -4983194418104568266
+    second: Sprite_FX_Wind_0008_25
+  - first:
+      213: 4238059828887273362
+    second: Sprite_FX_Wind_0008_26
+  - first:
+      213: 1864048681122360628
+    second: Sprite_FX_Wind_0008_27
+  - first:
+      213: -742570231154043002
+    second: Sprite_FX_Wind_0008_28
+  - first:
+      213: -5945917085851256724
+    second: Sprite_FX_Wind_0008_29
+  - first:
+      213: 8310379493631919931
+    second: Sprite_FX_Wind_0008_30
+  - first:
+      213: 5068204029150981510
+    second: Sprite_FX_Wind_0008_31
+  - first:
+      213: -6506331838847143388
+    second: Sprite_FX_Wind_0008_32
+  - first:
+      213: -7316397807303636438
+    second: Sprite_FX_Wind_0008_33
+  - first:
+      213: -8970514959747327247
+    second: Sprite_FX_Wind_0008_34
+  - first:
+      213: -3914934708544590818
+    second: Sprite_FX_Wind_0008_35
+  - first:
+      213: 307038391575246932
+    second: Sprite_FX_Wind_0008_36
+  - first:
+      213: -5927615792020809720
+    second: Sprite_FX_Wind_0008_37
+  - first:
+      213: 2331852568049985755
+    second: Sprite_FX_Wind_0008_38
+  - first:
+      213: -2473999904066878481
+    second: Sprite_FX_Wind_0008_39
+  - first:
+      213: -8362947235233303113
+    second: Sprite_FX_Wind_0008_0
+  - first:
+      213: 1165841942709294204
+    second: Sprite_FX_Wind_0008_1
+  - first:
+      213: -6093532923404350800
+    second: Sprite_FX_Wind_0008_2
+  - first:
+      213: 5843005191101368302
+    second: Sprite_FX_Wind_0008_3
+  - first:
+      213: -5761568581151820271
+    second: Sprite_FX_Wind_0008_4
+  - first:
+      213: 1479553388563965672
+    second: Sprite_FX_Wind_0008_5
+  - first:
+      213: -5584282057929673141
+    second: Sprite_FX_Wind_0008_6
+  - first:
+      213: 3565227817866395900
+    second: Sprite_FX_Wind_0008_7
+  - first:
+      213: 3655157967077769918
+    second: Sprite_FX_Wind_0008_8
+  - first:
+      213: 3504964121132877394
+    second: Sprite_FX_Wind_0008_9
+  - first:
+      213: -5857994174015133024
+    second: Sprite_FX_Wind_0008_10
+  - first:
+      213: -5377877317418220916
+    second: Sprite_FX_Wind_0008_11
+  - first:
+      213: 7981186782260405797
+    second: Sprite_FX_Wind_0008_12
+  - first:
+      213: -4439693974736054376
+    second: Sprite_FX_Wind_0008_13
+  - first:
+      213: 7403381348074701610
+    second: Sprite_FX_Wind_0008_14
+  - first:
+      213: 5475957740048089708
+    second: Sprite_FX_Wind_0008_15
+  - first:
+      213: 6348517132935385764
+    second: Sprite_FX_Wind_0008_16
+  - first:
+      213: -8449047367755449068
+    second: Sprite_FX_Wind_0008_17
+  - first:
+      213: -2276937781439770834
+    second: Sprite_FX_Wind_0008_18
+  - first:
+      213: -3726787237473507911
+    second: Sprite_FX_Wind_0008_19
+  - first:
+      213: 3460086647137373759
+    second: Sprite_FX_Wind_0008_20
+  - first:
+      213: 5581500524033396849
+    second: Sprite_FX_Wind_0008_21
+  - first:
+      213: -5757216092828904059
+    second: Sprite_FX_Wind_0008_22
+  - first:
+      213: -6267202024782584896
+    second: Sprite_FX_Wind_0008_23
+  - first:
+      213: 7943076179142583222
+    second: Sprite_FX_Wind_0008_24
+  - first:
+      213: -8185680666538776784
+    second: Sprite_FX_Wind_0008_25
+  - first:
+      213: 1855714117820730031
+    second: Sprite_FX_Wind_0008_26
+  - first:
+      213: -3070622621637887123
+    second: Sprite_FX_Wind_0008_27
+  - first:
+      213: -494205594204312162
+    second: Sprite_FX_Wind_0008_28
+  - first:
+      213: -63073721547012
+    second: Sprite_FX_Wind_0008_29
+  - first:
+      213: -1659507890667850320
+    second: Sprite_FX_Wind_0008_30
+  - first:
+      213: -736535946342548544
+    second: Sprite_FX_Wind_0008_31
+  - first:
+      213: -8283238093440718961
+    second: Sprite_FX_Wind_0008_32
+  - first:
+      213: 5165268220388205228
+    second: Sprite_FX_Wind_0008_33
+  - first:
+      213: 3925399653657183769
+    second: Sprite_FX_Wind_0008_34
+  - first:
+      213: -3183760854380441671
+    second: Sprite_FX_Wind_0008_35
+  - first:
+      213: 2635549073005397673
+    second: Sprite_FX_Wind_0008_36
+  - first:
+      213: -4432868959263370165
+    second: Sprite_FX_Wind_0008_37
+  - first:
+      213: -8894784966179844677
+    second: Sprite_FX_Wind_0008_38
+  - first:
+      213: -4018030036340443616
+    second: Sprite_FX_Wind_0008_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b575906cc7d0fb80800000000000000
+      internalID: -8362947235233303113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 34
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74507be117ed2010800000000000000
+      internalID: 1165841942709294204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 33
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0651571c6f6ba0800000000000000
+      internalID: -6093532923404350800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74c548346861150800000000000000
+      internalID: 5843005191101368302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f46bc6ebca00b0800000000000000
+      internalID: -5761568581151820271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a497c7fd688410800000000000000
+      internalID: 1479553388563965672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b38b1e05a082b0800000000000000
+      internalID: -5584282057929673141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0844b9fcb3a7130800000000000000
+      internalID: 3565227817866395900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20c912ecab9b230800000000000000
+      internalID: 3655157967077769918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564d9e4c4224a030800000000000000
+      internalID: 3504964121132877394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_FX_Wind_0008_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 54
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa2581f55934bea0800000000000000
+      internalID: -5857994174015133024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
