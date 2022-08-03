@@ -26,9 +26,14 @@ public class Attack_new : MonoBehaviour
 	public float timeDown;
 	public SpriteRenderer colorEffect;
 	public GameObject effect;
-	float m;
+	public float m;
 
 	float startTime;
+
+
+	public audioSetting audio;
+	float step;
+
 	private void Awake()
 	{
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
@@ -55,6 +60,12 @@ public class Attack_new : MonoBehaviour
 
 		if (Input.GetKeyUp(KeyCode.J) && startTime < Time.time)
 		{
+
+			if(step > 1) audio.GetSound(6, 0.3f);
+			audio.OffSound();
+			step = 0;
+			
+
 			//if(fire == false) StartCoroutine(DownFire()); 
 			fire = true;
 			start = Time.time;
@@ -71,13 +82,16 @@ public class Attack_new : MonoBehaviour
 				throwableWeapon.GetComponent<Bullet_move>().direction = direction;
 				
 			}
-			
+
+			m = 0;
 
 		}
 		else if (Input.GetKeyDown(KeyCode.J) && startTime < Time.time){
 
 			m = Time.time;
 			effect.SetActive(true);
+
+			step = 1;
 		}
 
 		if ( effect != null )
@@ -110,12 +124,10 @@ public class Attack_new : MonoBehaviour
 		else if (m >= timeDown && m < 2 * timeDown)
 		{
 			throwableObject = throwableObject_2;
-
 		}
 		else if (m >= 2 * timeDown)
 		{
 			throwableObject = throwableObject_3;
-
 		}
 	}
 
@@ -130,12 +142,24 @@ public class Attack_new : MonoBehaviour
 		else if (k >= timeDown && k < 2 * timeDown)
 		{
 			colorEffect.color = Color.green;
-			
+
+			if (step == 1)
+			{
+				audio.SetSound(4, 0.5f, false);
+
+				step++;
+			}
 		}
 		else if (k >= 2 * timeDown)
 		{
 			colorEffect.color = Color.white;
-			
+
+			if (step == 2)
+			{
+				audio.SetSound(5, 0.5f, true);
+
+				step++;
+			}
 		}
 	}
 
@@ -152,7 +176,7 @@ public class Attack_new : MonoBehaviour
 					dmgValue = -dmgValue;
 				}
 				collidersEnemies[i].gameObject.SendMessage("ApplyDamage", dmgValue);
-				cam.GetComponent<CameraFollow>().ShakeCamera();
+				
 			}
 		}
 	}

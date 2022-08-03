@@ -37,7 +37,7 @@ public class Enemy : MonoBehaviour {
 
 		if (!isHitted && life > 0 && Mathf.Abs(rb.velocity.y) < 0.5f)
 		{
-			if (isPlat && !isObstacle )
+			if (isPlat && !isObstacle && !isHitted)
 			{
 				if (facingRight)
 				{

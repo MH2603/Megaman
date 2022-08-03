@@ -52,6 +52,9 @@ public class CharacterController2D_new : MonoBehaviour
 	[System.Serializable]
 	public class BoolEvent : UnityEvent<bool> { }
 
+
+
+	public audioSetting audio;
 	void Start()
     {
 		playerHP.SetMaxHealth(life);
@@ -144,8 +147,12 @@ public class CharacterController2D_new : MonoBehaviour
 		if (canMove) {
 			if (dash && canDash && !isWallSliding)
 			{
+				audio.GetSound(2, 0.5f);
+
 				//m_Rigidbody2D.AddForce(new Vector2(transform.localScale.x * m_DashForce, 0f));
 				StartCoroutine(DashCooldown());
+
+
 			}
 			// If crouching, check to see if the character can stand up
 			if (isDashing)
@@ -178,6 +185,8 @@ public class CharacterController2D_new : MonoBehaviour
 			// If the player should jump...
 			if (m_Grounded && jump)
 			{
+				audio.GetSound(0, 0.5f);
+
 				// Add a vertical force to the player.
 				animator.SetBool("IsJumping", true);
 				animator.SetBool("JumpUp", true);
@@ -186,9 +195,14 @@ public class CharacterController2D_new : MonoBehaviour
 				canDoubleJump = true;
 				particleJumpDown.Play();
 				particleJumpUp.Play();
+
+				
+
 			}
 			else if (!m_Grounded && jump && canDoubleJump && !isWallSliding)
 			{
+				audio.GetSound(1, 0.5f);
+
 				canDoubleJump = false;
 				m_Rigidbody2D.velocity = new Vector2(m_Rigidbody2D.velocity.x, 0);
 				m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce / 1.2f));
@@ -273,6 +287,10 @@ public class CharacterController2D_new : MonoBehaviour
 	{
 		if (!invincible)
 		{
+
+			audio.GetSound(3, 0.5f);
+
+
 			animator.SetBool("Hit", true);
 			life -= damage;
 			playerHP.SetHealth(life);

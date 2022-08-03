@@ -91,7 +91,7 @@ public class comunicate : MonoBehaviour
         if(player.life == 16)
         {
             winText.text = "You win with max HP, Are you Faker ???";
-        }else winText.text = "You win, but you should try to win max HP";
+        }else winText.text = "You win, but you should try to win with max HP";
 
 
 
