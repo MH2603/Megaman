@@ -68502,6 +68502,11 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -7.87
       objectReference: {fileID: 0}
+    - target: {fileID: 5780649289774896260, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5780649289774896261, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -68557,6 +68562,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5780649289774896262, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: textures.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780649289774896262, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: textures.Array.data[0]
+      value: 
+      objectReference: {fileID: 2800000, guid: 16cb062b265e97e45aa32e56f824e6f2, type: 3}
+    - target: {fileID: 5780649289774896262, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: textures.Array.data[1]
+      value: 
+      objectReference: {fileID: 2800000, guid: 0a52eae00723a2d408755293d4104512, type: 3}
+    - target: {fileID: 5780649289774896262, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: textures.Array.data[2]
+      value: 
+      objectReference: {fileID: 2800000, guid: 8b3c3fbaef27bf646966a74a9b12c3e4, type: 3}
+    - target: {fileID: 5780649289774896262, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
+        type: 3}
+      propertyPath: textures.Array.data[3]
+      value: 
+      objectReference: {fileID: 2800000, guid: 499a6ec4ec031104e87b531a548da161, type: 3}
     - target: {fileID: 5780649289774896283, guid: ebcc6c814f9de9d48bec7cde8b2e711f,
         type: 3}
       propertyPath: m_Name
