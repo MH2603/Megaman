@@ -38,6 +38,7 @@ public class audioSetting : MonoBehaviour
         audio.volume = v;
         audio.Play();
 
+        
         audio.loop = loop;
     }
 

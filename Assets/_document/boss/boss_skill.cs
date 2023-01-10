@@ -47,6 +47,9 @@ public class boss_skill : MonoBehaviour
     public bossHP HP;
 
     Rigidbody2D rb;
+
+    // Sound
+    public AudioSource audio;
     
     // Start is called before the first frame update
     void Start()
@@ -215,6 +218,8 @@ public class boss_skill : MonoBehaviour
         Tele(posMid.position);
 
         anima.SetBool("scream", true);
+
+       
 
         Instantiate(boneLightning, transform.position, Quaternion.identity);
 
