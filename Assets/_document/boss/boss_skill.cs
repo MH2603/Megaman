@@ -56,19 +56,9 @@ public class boss_skill : MonoBehaviour
     {
         rb = this.GetComponent<Rigidbody2D>();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-      
-
-    }
-   
-
     
 
     // Attack Normal
-
     public void RunToPlayer()
     {
 
@@ -85,7 +75,7 @@ public class boss_skill : MonoBehaviour
 
         
         
-        if ( k <= 5.5f   )
+        if ( k <= 5f   )
         {
             rb.velocity = new Vector2(0, 0);
 

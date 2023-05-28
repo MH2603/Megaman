@@ -333,6 +333,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24bbdd106c8032746b39f018f3bb97e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sprite: {fileID: 6717822}
+  takeDMG: {r: 0.9622642, g: 0.43772256, b: 0.104396604, a: 1}
   BossHP: {fileID: 862627852}
   action: {fileID: 6717825}
   fireSkull: {fileID: 173439950}

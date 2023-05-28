@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class bossHP : MonoBehaviour
 {
+    public SpriteRenderer sprite;
+    public Color takeDMG;
+    Color colorStart;
+
     public HealthBar BossHP;
     public boss_action action;
 
@@ -17,6 +21,7 @@ public class bossHP : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        colorStart = sprite.color;
         BossHP.SetMaxHealth(life);
     }
 
@@ -28,7 +33,12 @@ public class bossHP : MonoBehaviour
 
     public void ApplyDamage(float damage)
     {
+        if (life <= 0) return;
+
         life -= damage;
+        sprite.color = takeDMG;
+        Invoke("ChangeColor",0.5f);
+
         BossHP.SetHealth(life);
         if(life <= 0 && fistDead == false )
         {
@@ -39,6 +49,11 @@ public class bossHP : MonoBehaviour
 
             return;
         }
+    }
+
+    void ChangeColor()
+    {
+        sprite.color = colorStart;
     }
 
 
