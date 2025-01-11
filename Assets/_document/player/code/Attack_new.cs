@@ -12,7 +12,6 @@ public class Attack_new : MonoBehaviour
 	GameObject throwableObject;
 
 	public Transform attackCheck;
-	private Rigidbody2D m_Rigidbody2D;
 	public Animator animator;
 	public bool canAttack = true;
 	public bool isTimeToCheck = false;
@@ -34,10 +33,6 @@ public class Attack_new : MonoBehaviour
 	public audioSetting audio;
 	float step;
 
-	private void Awake()
-	{
-		m_Rigidbody2D = GetComponent<Rigidbody2D>();
-	}
 
 	// Start is called before the first frame update
 	void Start()
